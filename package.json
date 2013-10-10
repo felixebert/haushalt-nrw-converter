@@ -1,0 +1,18 @@
+{
+  "name": "haushalt-nrw-converter",
+  "preferGlobal": false,
+  "version": "0.1.0",
+  "author": "Felix Ebert <felix.ebert@if-core.de>",
+  "description": "bereitet Haushaltsplan Rohdaten von NRW für https://haushalt.piratenfraktion-nrw.de/ auf",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/felixebert/haushalt-nrw-converter"
+  },
+  "dependencies": {
+    "optimist": "~0.6.0"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=0.10"
+  }
+}
