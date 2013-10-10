@@ -36,7 +36,7 @@ var convertData = function(data, kapitel) {
 		insertCommand.set('Kapitel', paddingLeft(row[0], '00') + ' ' + paddingLeft(row[1], '000'));
 		insertCommand.set('Kapitelname', kapitelName);
 		insertCommand.set('Kategorie', hauptgruppeName);
-		insertCommand.set('Kategorie_ID', 10000 + hauptgruppeId);
+		insertCommand.set('Kategorie_ID', 2000 + hauptgruppeId);
 		insertCommand.set('Titel', paddingLeft(row[2], '000') + ' ' + paddingLeft(row[3], '00'));
 		console.log(insertCommand.toString() + ';');
 	});
