@@ -10,7 +10,7 @@ var parseHtml = function(html) {
 	$('#rechts2 tr').each(function(index, row) {
 		var links = $(row).find('a');
 		if (links.length === 2) {
-			var categoryId = $(links).eq(0).text();
+			var categoryId = $(links).eq(0).text().trim();
 			var categoryName = $(links).eq(1).text().replace(/\s+/g, ' ');
 			categories[categoryId] = categoryName;
 		}
@@ -19,9 +19,7 @@ var parseHtml = function(html) {
 };
 
 var handleFile = function(filename, callback) {
-	fs.readFile(htmlDirectoryPath + filename, {
-		encoding: 'UTF-8'
-	}, function(err, html) {
+	fs.readFile(htmlDirectoryPath + filename, 'utf8', function(err, html) {
 		if (err) {
 			callback(err);
 		} else {
