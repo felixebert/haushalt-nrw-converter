@@ -28,7 +28,7 @@ var convertData = function(data, kapitel) {
 		var insertCommand = squel.insert().into(table);
 		insertCommand.set('Einzelplan', row[0]);
 		insertCommand.set('Beschreibung', row[9]);
-		insertCommand.set('Beschreibung1', 'z');
+		insertCommand.set('Beschreibung1', '');
 		insertCommand.set('Wert1', toNumber(row[5]));
 		insertCommand.set('Wert2', toNumber(row[6]));
 		insertCommand.set('Typ', type);
@@ -36,7 +36,7 @@ var convertData = function(data, kapitel) {
 		insertCommand.set('Kapitel', paddingLeft(row[0], '00') + ' ' + paddingLeft(row[1], '000'));
 		insertCommand.set('Kapitelname', kapitelName);
 		insertCommand.set('Kategorie', hauptgruppeName);
-		insertCommand.set('Kategorie_ID', hauptgruppeId);
+		insertCommand.set('Kategorie_ID', 10000 + hauptgruppeId);
 		insertCommand.set('Titel', paddingLeft(row[2], '000') + ' ' + paddingLeft(row[3], '00'));
 		console.log(insertCommand.toString() + ';');
 	});
