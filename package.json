@@ -11,7 +11,9 @@
   "dependencies": {
     "optimist": "~0.6.0",
     "csv": "~0.3.6",
-    "squel": "~1.2.1"
+    "squel": "~1.2.1",
+    "cheerio": "~0.12.3",
+    "async": "~0.2.9"
   },
   "license": "MIT",
   "engines": {
