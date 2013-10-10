@@ -1,9 +1,15 @@
 var fs = require('fs'), csv = require('csv'), squel = require('squel');
-var argv = require('optimist').usage('Convert a budget file\nUsage: $0 -y [year] [budgetFile]').describe('t', 'add truncate command').describe('y', 'year')
-		.alias('t', 'truncate').alias('y', 'year').demand(1).demand('y').argv;
+var argv = require('optimist').usage('Convert a budget file\nUsage: $0 -y [year] -k [kapitelFile] [budgetFile]').describe('t', 'add truncate command')
+		.describe('y', 'year').describe('k', 'json file with all kapitel names (see kapitelnamen.js and data/kapitel.js)').alias('t', 'truncate').alias('y',
+				'year').demand([1, 'y', 'k']).argv;
 
 var year = argv.y;
 var table = 't_' + year;
+var hauptgruppen = ['Steuern und steuerähnlichen Abgaben sowie EU- Eigenmittel', 'Verwaltungseinnahmen, Einnahmen aus Schuldendienst und dgl.',
+	'Zuweisungen und Zuschüsse mit Ausnahme für Investitionen',
+	'Schuldenaufnahmen, Zuweisungen und Zuschüsse für Investitionen, besondere Finanzierungseinnahmen', 'Personalausgaben',
+	'Sächliche Verwaltungsausgaben und Ausgaben für den Schuldendienst', 'Zuweisungen und Zuschüsse mit Ausnahme für Investitionen', 'Baumaßnahmen',
+	'Sonstige Ausgaben für Investitionen und Investitionsförderungsmaßnahmen', 'Besondere Finanzierungsausgaben'];
 
 var toNumber = function(rawValue) {
 	return parseInt(rawValue.trim().replace(/\./g, ''), 10);
@@ -12,9 +18,12 @@ var paddingLeft = function(string, paddingValue) {
 	return String(paddingValue + string).slice(-paddingValue.length);
 };
 
-var convertData = function(data) {
+var convertData = function(data, kapitel) {
 	data.forEach(function(row) {
-		var type = parseInt(row[2].substr(0, 1), 10) <= 3 ? 'Einnahmen' : 'Ausgaben';
+		var hauptgruppeId = parseInt(paddingLeft(row[2], '000').substr(0, 1), 10);
+		var type = hauptgruppeId <= 3 ? 'Einnahmen' : 'Ausgaben';
+		var kapitelName = kapitel[paddingLeft(row[0], '00') + '.' + paddingLeft(row[1], '000')];
+		var hauptgruppeName = hauptgruppen[hauptgruppeId];
 
 		var insertCommand = squel.insert().into(table);
 		insertCommand.set('Einzelplan', row[0]);
@@ -25,9 +34,9 @@ var convertData = function(data) {
 		insertCommand.set('Typ', type);
 		insertCommand.set('Jahr', year);
 		insertCommand.set('Kapitel', paddingLeft(row[0], '00') + ' ' + paddingLeft(row[1], '000'));
-		insertCommand.set('Kapitelname', 'y');
-		insertCommand.set('Kategorie', 'x');
-		insertCommand.set('Kategorie_ID', '1');
+		insertCommand.set('Kapitelname', kapitelName);
+		insertCommand.set('Kategorie', hauptgruppeName);
+		insertCommand.set('Kategorie_ID', hauptgruppeId);
 		insertCommand.set('Titel', paddingLeft(row[2], '000') + ' ' + paddingLeft(row[3], '00'));
 		console.log(insertCommand.toString() + ';');
 	});
@@ -36,7 +45,17 @@ var convertData = function(data) {
 if (argv.t) {
 	console.log(squel.remove().from(table).toString() + ';');
 }
-csv().from.path(argv._[0], {
-	delimiter: ',',
-	escape: '"'
-}).to.array(convertData);
+
+fs.readFile(argv.k, 'utf8', function(err, kapitelJson) {
+	if (err) {
+		throw err;
+	}
+	var kapitel = JSON.parse(kapitelJson);
+
+	csv().from.path(argv._[0], {
+		delimiter: ',',
+		escape: '"'
+	}).to.array(function(data) {
+		convertData(data, kapitel);
+	});
+});
