@@ -1,3 +1,3 @@
 Usage:
 
-node converter.js <haushaltsplan.xls>
+node budget.js <haushaltsplan.xls>

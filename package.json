@@ -1,22 +1,29 @@
 {
-  "name": "haushalt-nrw-converter",
-  "preferGlobal": false,
-  "version": "0.1.0",
-  "author": "Felix Ebert <felix.ebert@if-core.de>",
-  "description": "bereitet Haushaltsplan Rohdaten von NRW für https://haushalt.piratenfraktion-nrw.de/ auf",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/felixebert/haushalt-nrw-converter"
-  },
-  "dependencies": {
-    "optimist": "~0.6.0",
-    "csv": "~0.3.6",
-    "squel": "~1.2.1",
-    "cheerio": "~0.12.3",
-    "async": "~0.2.9"
-  },
-  "license": "MIT",
-  "engines": {
-    "node": ">=0.10"
-  }
+    "name": "haushalt-nrw-converter",
+    "preferGlobal": false,
+    "version": "0.1.0",
+    "author": "Felix Ebert <felix.ebert@if-core.de>",
+    "description": "bereitet Haushaltsplan Rohdaten von NRW für https://haushalt.piratenfraktion-nrw.de/ auf",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/felixebert/haushalt-nrw-converter"
+    },
+    "dependencies": {
+        "optimist": "~0.6.0",
+        "csv": "~0.3.6",
+        "squel": "~1.2.1",
+        "cheerio": "~0.12.3",
+        "mysql": "~2.0.1",
+        "async": "~0.2.9"
+    },
+    "license": "MIT",
+    "engines": {
+        "node": ">=0.10"
+    },
+    "scripts": {
+        "test": "mocha"
+    },
+    "devDependencies": {
+        "mocha": "^1.20.1"
+    }
 }
