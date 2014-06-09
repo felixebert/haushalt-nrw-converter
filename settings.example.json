@@ -1,0 +1,9 @@
+{
+    "database": {
+        "host": "localhost",
+        "user": "nrw-haushalt",
+        "database": "nrw-haushalt",
+        "password": "",
+        "multipleStatements": true
+    }
+}
