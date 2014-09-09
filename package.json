@@ -9,12 +9,13 @@
         "url": "https://github.com/felixebert/haushalt-nrw-converter"
     },
     "dependencies": {
-        "optimist": "~0.6.0",
-        "csv": "~0.3.6",
-        "squel": "~1.2.1",
+        "async": "~0.2.9",
         "cheerio": "~0.12.3",
+        "csv": "~0.3.6",
+        "iconv": "^2.1.4",
         "mysql": "~2.0.1",
-        "async": "~0.2.9"
+        "optimist": "~0.6.0",
+        "squel": "~1.2.1"
     },
     "license": "MIT",
     "engines": {
