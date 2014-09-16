@@ -8,10 +8,10 @@
 1,10,232,90,11,97.000   ,97.000   ,"98.474,00   ",0   ,Sonstige Zuweisungen von Ländern
 1,10,411,10,11,45.534.400   ,46.651.300   ,"40.134.695,11   ",0   ,"Leistungen an Abgeordnete, ehemalige Abgeordnete und Hinterbliebene nach dem AbgG NRW"
 1,10,411,11,11,14.333.900   ,13.566.500   ,"11.413.541,97   ",0   ,Leistungen an Abgeordnete für die Beschäftigung von Mitarbeitern nach dem AbgG NRW
-1,10,422,1,11,5.675.300   ,5.518.900   ,"4.261.178,15   ",0   ,"Bezüge und Nebenleistungen der Beamtinnen und Beamten, Richterinnen und Richter"
+1,10,422,1,11,5.795.900   ,5.518.900   ,"4.261.178,15   ",0   ,"Bezüge und Nebenleistungen der Beamtinnen und Beamten, Richterinnen und Richter"
 1,10,427,1,11,50.000   ,50.000   ,"166.889,33   ",0   ,Entgelte für Aushilfen
 1,10,427,2,11,12.700   ,12.700   ,"0,00   ",0   ,Entgelte für Arbeitnehmerinnen und Arbeitnehmer im Rahmen von Maßnahmen zur Arbeitsbeschaffung
-1,10,428,1,11,10.503.400   ,9.962.100   ,"9.936.322,49   ",0   ,Entgelte der Arbeitnehmerinnen und Arbeitnehmer
+1,10,428,1,11,10.543.400   ,9.962.100   ,"9.936.322,49   ",0   ,Entgelte der Arbeitnehmerinnen und Arbeitnehmer
 1,10,429,20,11,25.000   ,55.000   ,"15.077,00   ",0   ,"Altersversorgung von Geschäftsführern der Fraktionen, ausgenommen Parlamentarische Geschäftsführer"
 1,10,441,1,841,281.100   ,198.500   ,"266.451,56   ",0   ,Beihilfen in Krankheitsfällen aufgrund der Beihilfenverordnung
 1,10,441,4,841,0   ,0   ,"0,00   ",0   ,Beiträge zur Arbeitslosenversicherung bei Inanspruchnahme von Pflegezeit im Bereich pflegebedürftiger Beamtinnen und Beamter bzw. deren Angehörigen
@@ -65,9 +65,9 @@
 1,10,428,60,11,0   ,0   ,"0,00   ",0   ,Entgelte der Arbeitnehmerinnen und Arbeitnehmer
 1,10,517,60,11,37.500   ,0   ,"0,00   ",0   ,"Bewirtschaftung der Grundstücke, Gebäude und Räume"
 1,10,518,60,11,250.000   ,0   ,"0,00   ",0   ,"Mieten und Pachten für Grundstücke, Gebäude und Räume"
-1,10,526,60,11,360.000   ,360.000   ,"132.759,84   ",0   ,"Kosten für Sachverständige, Gerichts- und ähnliche Kosten"
-1,10,547,60,11,150.000   ,150.000   ,"19.560,22   ",0   ,Nicht aufteilbare sächliche Verwaltungsausgaben
-1,10,684,60,11,1.900.000   ,1.900.000   ,"829.406,10   ",0   ,Zuschüsse an Fraktionen
+1,10,526,60,11,480.000   ,360.000   ,"132.759,84   ",0   ,"Kosten für Sachverständige, Gerichts- und ähnliche Kosten"
+1,10,547,60,11,190.000   ,150.000   ,"19.560,22   ",0   ,Nicht aufteilbare sächliche Verwaltungsausgaben
+1,10,684,60,11,2.350.000   ,1.900.000   ,"829.406,10   ",0   ,Zuschüsse an Fraktionen
 1,10,422,61,11,0   ,0   ,"0,00   ",0   ,"Bezüge und Nebenleistungen der Beamtinnen und Beamten, Richterinnen und Richter"
 1,10,428,61,11,0   ,0   ,"0,00   ",0   ,Entgelte der Arbeitnehmerinnen und Arbeitnehmer
 1,10,526,61,11,5.000   ,5.000   ,"3.184,97   ",0   ,Sachverständige
@@ -295,7 +295,7 @@
 2,70,541,20,422,0   ,0   ,"0,00   ",0   ,Ausgaben für die Ministerkonferenz für Raumordnung
 2,70,541,30,422,20.000   ,20.000   ,"18.139,96   ",0   ,"Ausstellungen, Kongresse, Wettbewerbe"
 2,70,546,10,422,0   ,0   ,"-12.022,93   ",0   ,"Wahrnehmung der Funktion als deutsche Kontaktstelle für das transnationale territoriale Kooperationsprogramm (INTERREG IV B) ""Nordwesteuropa"" (NWE)"
-2,70,637,10,422,1.052.800   ,759.500   ,"559.500,00   ",0   ,Zuweisungen an den Regionalverband Ruhr
+2,70,637,10,422,962.800   ,759.500   ,"559.500,00   ",0   ,Zuweisungen an den Regionalverband Ruhr
 2,70,685,10,422,0   ,0   ,"0,00   ",0   ,Sonstige Zuschüsse für laufende Zwecke im Inland
 2,70,685,20,422,186.100   ,186.100   ,"186.050,00   ",0   ,Zuschüsse und Beiträge an Vereine und Organisationen
 2,70,812,0,422,14.600   ,14.600   ,"4.883,90   ",0   ,"Erwerb von Geräten, Ausstattungs- und Ausrüstungsgegenständen"
@@ -423,7 +423,7 @@
 3,10,231,0,11,2.500   ,2.500   ,"0,00   ",0   ,Sonstige Zuweisungen vom Bund
 3,10,235,0,11,0   ,0   ,"0,00   ",0   ,Sonstige Zuweisungen von Sozialversicherungsträgern
 3,10,281,0,11,100.000   ,0   ,"0,00   ",0   ,Sonstige Erstattungen aus dem Inland
-3,10,422,1,11,31.761.800   ,31.357.300   ,"29.949.031,81   ",0   ,"Bezüge und Nebenleistungen der Beamtinnen und Beamten, Richterinnen und Richter"
+3,10,422,1,11,31.875.400   ,31.357.300   ,"29.949.031,81   ",0   ,"Bezüge und Nebenleistungen der Beamtinnen und Beamten, Richterinnen und Richter"
 3,10,427,1,11,376.500   ,376.500   ,"309.940,80   ",0   ,Entgelte für Aushilfen
 3,10,427,10,11,5.100   ,5.100   ,"2.461,92   ",0   ,"Beschäftigungsentgelte, Aufwendungen für nebenamtlich und nebenberuflich Tätige"
 3,10,428,1,11,13.597.100   ,12.954.800   ,"13.192.340,13   ",0   ,Entgelte der Arbeitnehmerinnen und Arbeitnehmer
@@ -434,7 +434,7 @@
 3,10,514,1,11,4.000   ,4.000   ,"5.589,46   ",0   ,Haltung von Dienstfahrzeugen
 3,10,514,2,11,10.200   ,10.200   ,"13.105,09   ",0   ,Dienst- und Schutzkleidung
 3,10,517,4,11,2.187.700   ,2.187.700   ,"1.923.655,79   ",0   ,"Bewirtschaftung der vom Bau- und Liegenschaftsbetrieb NRW angemieteten Grundstücke, Gebäude und Räume"
-3,10,518,1,11,6.804.500   ,2.500   ,"1.956,00   ",0   ,"Mieten und Pachten für Grundstücke, Gebäude und Räume"
+3,10,518,1,11,13.504.500   ,2.500   ,"1.956,00   ",0   ,"Mieten und Pachten für Grundstücke, Gebäude und Räume"
 3,10,518,2,11,109.000   ,109.000   ,"45.895,19   ",0   ,"Mieten und Pachten für Geräte, Maschinen und Fahrzeuge"
 3,10,518,4,11,5.385.800   ,5.328.800   ,"5.230.932,72   ",0   ,Mieten und Pachten an den Bau- und Liegenschaftsbetrieb NRW
 3,10,519,3,11,116.000   ,116.000   ,"59.876,04   ",0   ,"Schönheitsreparaturen und Instandhaltung an angemieteten Grundstücken, Gebäuden und Räumen"
@@ -498,8 +498,8 @@
 3,20,514,0,313,70.000   ,58.000   ,"47.625,84   ",0   ,Verbrauchsmittel
 3,20,519,11,11,4.850.000   ,4.850.000   ,"0,00   ",0   ,Zur Verstärkung der in den Kapiteln vorgesehenen Ansätze bei den Titeln 519 03
 3,20,525,1,12,340.000   ,340.000   ,"136.681,68   ",0   ,Aus- (und Fort)bildung der Bediensteten
-3,20,529,10,12,40.600   ,40.600   ,"22.469,82   ",0   ,Zur Verfügung der Dienststellen und Einrichtungen im Geschäftsbereich des Ministeriums für Inneres und Kommunales
-3,20,529,11,12,104.000   ,93.900   ,"73.533,93   ",0   ,Aufwand der Personalvertretungen
+3,20,529,10,12,40.500   ,40.600   ,"22.469,82   ",0   ,Zur Verfügung der Dienststellen und Einrichtungen im Geschäftsbereich des Ministeriums für Inneres und Kommunales
+3,20,529,11,12,103.900   ,93.900   ,"73.533,93   ",0   ,Aufwand der Personalvertretungen
 3,20,529,12,12,7.000   ,7.000   ,"3.466,27   ",0   ,Aufwand für Schwerbehindertenvertretungen
 3,20,531,0,13,47.500   ,47.500   ,"7.243,88   ",0   ,Öffentlichkeitsarbeit
 3,20,535,10,421,90.000   ,90.000   ,"0,00   ",0   ,Zur Durchführung überörtlicher Sonderaufgaben der Kataster- und Vermessungsverwaltung im Auftrage Dritter
@@ -511,7 +511,7 @@
 3,20,546,10,12,0   ,0   ,"0,00   ",0   ,Erstattungen an den Bau- und Liegenschaftsbetrieb NRW in Schadensfällen
 3,20,546,11,11,640.000   ,500.000   ,"176.902,20   ",0   ,Aufwendungen für Leistungen des Bau- und Liegenschaftsbetriebs NRW und anderer Dienstleister
 3,20,547,11,12,17.202.600   ,17.288.500   ,"15.231.895,00   ",0   ,Aufwendungen für Leistungen des Landesbetriebes Information und Technik NRW für die ressortübergreifende Kommunikationsinfrastruktur
-3,20,547,12,12,1.400.000   ,1.400.000   ,"1.368.673,37   ",4.005.000   ,Aufwendungen für Leistungen anderer IT-Dienstleister für ressortübergreifende E-Government-Infrastrukturen
+3,20,547,12,12,1.050.000   ,1.400.000   ,"1.368.673,37   ",4.005.000   ,Aufwendungen für Leistungen anderer IT-Dienstleister für ressortübergreifende E-Government-Infrastrukturen
 3,20,547,13,11,300.000   ,0   ,"0,00   ",0   ,Ausgaben aus Anlass des Vorsitzes der Innenministerkonferenz
 3,20,547,59,861,0   ,0   ,"21.128.000,00   ",0   ,Ausgaben im Rahmen der Regelung des § 9 Haushaltsgesetz
 3,20,632,10,11,33.200   ,33.200   ,"30.325,55   ",0   ,Erstattung der Kosten für die Ständige Geschäftsstelle der Innenministerkonferenz
@@ -532,7 +532,7 @@
 3,20,685,13,12,3.800.000   ,3.800.000   ,"3.322.472,00   ",0   ,Landeszuschuss an die Gemeindeprüfungsanstalt gemäß § 11 des Gesetzes zur Errichtung einer Gemeindeprüfungsanstalt
 3,20,811,10,45,5.000.000   ,5.000.000   ,"0,00   ",5.000.000   ,Erwerb von Fahrzeugen
 3,20,812,10,249,6.000   ,6.000   ,"0,00   ",0   ,Beschaffung von Legendentafeln für Kriegsgräberstätten
-3,20,972,10,881,-35.054.600   ,-31.494.600   ,"0,00   ",0   ,Globale Minderausgabe
+3,20,972,10,881,-35.034.600   ,-31.494.600   ,"0,00   ",0   ,Globale Minderausgabe
 3,20,427,70,12,0   ,0   ,"0,00   ",0   ,Beschäftigungsentgelte
 3,20,428,70,12,0   ,0   ,"0,00   ",0   ,Entgelte der Arbeitnehmerinnen und Arbeitnehmer
 3,20,459,70,12,0   ,0   ,"0,00   ",0   ,"Sonstige Personalausgaben, innerhalb von Titelgruppen nicht aufteilbare Fürsorgeleistungen und personalbezogene Sachausgaben"
@@ -540,8 +540,9 @@
 3,20,526,70,12,0   ,0   ,"0,00   ",0   ,Sachverständige und ähnliche Kosten
 3,20,538,70,12,0   ,0   ,"0,00   ",0   ,Ausgaben für Datenverarbeitung
 3,20,541,70,12,350.000   ,350.000   ,"276.127,79   ",0   ,Ausgaben für Veranstaltungen und dgl.
+3,20,545,70,12,1.050.000   ,0   ,"0,00   ",0   ,Open Government
 3,20,546,70,12,1.500.000   ,3.369.000   ,"1.391.977,12   ",0   ,Aufwendungen für Leistungen des Landesbetriebs Information und Technik NRW im Rahmen der Neustrukturierung
-3,20,547,70,12,1.944.000   ,1.944.000   ,"843.517,02   ",1.500.000   ,Innerhalb von Titelgruppen nicht aufteilbare sächliche Verwaltungsausgaben
+3,20,547,70,12,1.244.000   ,1.944.000   ,"843.517,02   ",1.500.000   ,Innerhalb von Titelgruppen nicht aufteilbare sächliche Verwaltungsausgaben
 3,20,631,70,12,0   ,0   ,"0,00   ",0   ,Sonstige Zuweisungen und Erstattungen an Bund
 3,20,632,70,12,0   ,0   ,"894.542,10   ",0   ,Sonstige Zuweisungen und Erstattungen an Länder
 3,20,633,70,12,0   ,500.000   ,"0,00   ",0   ,Sonstige Zuweisungen und Erstattungen an Gemeinden und Gemeindeverbände
@@ -551,14 +552,14 @@
 3,20,812,70,12,310.000   ,310.000   ,"0,00   ",0   ,"Erwerb von Geräten, Ausstattungsgegenständen und Maschinen"
 3,20,891,70,12,700.000   ,2.255.000   ,"624.000,00   ",0   ,Zuschüsse für Investitionen an den Landesbetrieb Information und Technik NRW im Rahmen der IT-Neustrukturierung
 3,20,427,71,12,0   ,0   ,"0,00   ",0   ,Entgelte für Aushilfen
-3,20,511,71,12,2.848.000   ,2.848.000   ,"1.964.632,07   ",5.800.000   ,"Geschäftsbedarf sowie Geräte, Ausstattungs- und Ausrüstungsgegenstände für die Datenverarbeitung"
+3,20,511,71,12,2.739.000   ,2.812.000   ,"1.964.632,07   ",5.800.000   ,"Geschäftsbedarf sowie Geräte, Ausstattungs- und Ausrüstungsgegenstände für die Datenverarbeitung"
 3,20,514,71,12,107.700   ,107.700   ,"81.549,11   ",0   ,Verbrauchsmittel
 3,20,525,71,12,760.900   ,760.900   ,"51.627,99   ",0   ,Kosten für IT- Personalschulung
 3,20,526,71,12,1.051.000   ,1.051.000   ,"38.703,39   ",0   ,"Sachverständige, Gerichts- und ähnliche Kosten"
 3,20,538,71,12,683.100   ,683.100   ,"1.013.271,32   ",0   ,Softwarekosten
 3,20,547,71,12,16.127.700   ,16.127.700   ,"14.562.215,41   ",0   ,Aufwendungen für Leistungen des Landesbetriebes Information und Technik NRW
 3,20,549,71,12,0   ,0   ,"0,00   ",0   ,Minderausgabe in der Hauptgruppe 5
-3,20,812,71,12,9.264.100   ,9.264.100   ,"4.664.939,87   ",10.400.000   ,Erwerb von Datenverarbeitungs- und Übertragungseinrichtungen
+3,20,812,71,12,9.217.100   ,9.248.100   ,"4.664.939,87   ",10.400.000   ,Erwerb von Datenverarbeitungs- und Übertragungseinrichtungen
 3,20,534,80,13,270.000   ,270.000   ,"137.802,63   ",50.000   ,Aufwendungen für die Pflege auswärtiger Beziehungen
 3,20,685,80,13,0   ,0   ,"0,00   ",0   ,Zuschüsse im Rahmen der Pflege auswärtiger Beziehungen
 3,20,687,80,423,12.000   ,12.000   ,"0,00   ",0   ,Zuschüsse für Projekte im Ausland
@@ -579,7 +580,7 @@
 3,20,686,83,11,0   ,0   ,"0,00   ",0   ,Sonstige Zuschüsse und Erstattungen für laufende Zwecke im Inland
 3,30,119,1,249,600.000   ,500.000   ,"646.176,37   ",0   ,Vermischte Einnahmen
 3,30,271,0,249,0   ,0   ,"0,00   ",0   ,Erstattungen von der EU
-3,30,536,0,249,4.400.000   ,5.400.000   ,"2.722.908,83   ",0   ,Rückführung
+3,30,536,0,249,4.200.000   ,5.400.000   ,"2.722.908,83   ",0   ,Rückführung
 3,30,547,10,249,16.800.000   ,16.800.000   ,"4.878.064,57   ",0   ,Ausgaben für die Betreuung von Bewohnern der Zentralen Unterbringungseinrichtungen (ZUE) des Landes
 3,30,547,11,249,250.000   ,0   ,"0,00   ",750.000   ,Nicht aufteilbare sächliche Verwaltungsausgaben
 3,30,631,0,249,0   ,0   ,"0,00   ",0   ,Erstattung von Verwaltungsausgaben an den Bund
@@ -593,7 +594,7 @@
 3,30,681,10,249,7.216.000   ,7.216.000   ,"2.692.716,97   ",0   ,Aufwendungen nach dem Asylbewerberleistungsgesetz für Bewohner der Zentralen Unterbringungseinrichtungen (ZUE) des Landes
 3,30,681,20,249,769.300   ,769.300   ,"598.990,34   ",0   ,Beförderungskosten
 3,30,684,10,249,180.000   ,180.000   ,"170.038,51   ",0   ,Förderung der Flüchtlingsabeit
-3,30,684,20,249,2.600.000   ,2.600.000   ,"2.111.656,50   ",0   ,Soziale Beratung von Flüchtlingen
+3,30,684,20,249,3.000.000   ,2.600.000   ,"2.111.656,50   ",0   ,Soziale Beratung von Flüchtlingen
 3,30,684,30,249,0   ,240.000   ,"235.493,57   ",0   ,Soziale Betreuung in der Abschiebehaft
 3,30,685,0,249,0   ,0   ,"796.410,26   ",0   ,Zuschüsse für Rückkehrprojekte einschließlich vorbereitender Maßnahmen
 3,110,111,1,42,5.500.000   ,5.500.000   ,"5.958.707,13   ",0   ,Gebühren und tarifliche Entgelte
@@ -764,7 +765,7 @@
 3,310,111,56,12,0   ,0   ,"31.921,13   ",0   ,Kostenbeiträge der NRW.BANK
 3,310,112,1,12,110.000   ,110.000   ,"163.883,10   ",0   ,"Geldstrafen, Geldbußen, Gerichtskosten"
 3,310,112,10,12,0   ,0   ,"0,00   ",0   ,Geldbußen im Zusammenhang mit dem Glücksspielwesen
-3,310,119,1,12,850.000   ,850.000   ,"1.046.300,72   ",0   ,Vermischte Einnahmen
+3,310,119,1,12,700.000   ,800.000   ,"1.046.300,72   ",0   ,Vermischte Einnahmen
 3,310,119,2,12,88.000   ,88.000   ,"126.869,54   ",0   ,Einnahmen aus Veröffentlichungen
 3,310,119,3,12,0   ,0   ,"0,00   ",0   ,Einnahmen aus Nebentätigkeiten
 3,310,119,10,12,400.000   ,197.500   ,"541.478,83   ",0   ,Überschüsse aus der Verwertung von Pfändern durch gewerbliche Pfandleiher
@@ -845,16 +846,16 @@
 3,310,119,83,313,0   ,0   ,"0,00   ",0   ,Erstattungen für Gutachten
 3,310,331,83,313,0   ,0   ,"0,00   ",0   ,Erstattungen des Bundes für Zweckausgaben (Investitionen) im Rahmen der Bundesauftragsverwaltung (Art. 104 a GG) bei der Durchführung des Atomgesetzes und der darauf beruhenden Rechtsvorschriften
 3,310,119,84,219,0   ,0   ,"0,00   ",0   ,Vermischte Einnahmen
-3,310,422,1,12,110.526.400   ,119.237.000   ,"106.987.021,21   ",0   ,"Bezüge und Nebenleistungen der Beamtinnen und Beamten, Richterinnen und Richter"
+3,310,422,1,12,109.498.100   ,118.891.000   ,"106.987.021,21   ",0   ,"Bezüge und Nebenleistungen der Beamtinnen und Beamten, Richterinnen und Richter"
 3,310,427,1,12,670.700   ,1.470.700   ,"735.342,66   ",0   ,Entgelte für Aushilfen
 3,310,427,10,12,171.500   ,171.500   ,"123.911,32   ",0   ,"Beschäftigungsentgelte, Aufwendungen für nebenamtlich oder nebenberuflich Tätige, Prüfungsvergütungen"
 3,310,427,20,12,208.800   ,208.800   ,"327.235,92   ",0   ,Prüfungsvergütungen für Mitglieder der Prüfungsausschüsse für Fahrlehrerinnen und Fahrlehrer
 3,310,427,30,219,400.000   ,400.000   ,"146.312,19   ",0   ,Prüfungsvergütungen für Mitglieder der Prüfungsausschüsse für ärztliche und pharmazeutische Prüfungen
 3,310,427,40,12,0   ,0   ,"0,00   ",0   ,Entgelte für Aushilfen der Scanstelle Detmold
-3,310,428,1,12,125.137.700   ,103.988.300   ,"115.724.773,80   ",0   ,Entgelte der Arbeitnehmerinnen und Arbeitnehmer
+3,310,428,1,12,122.522.500   ,102.765.100   ,"115.724.773,80   ",0   ,Entgelte der Arbeitnehmerinnen und Arbeitnehmer
 3,310,451,1,12,300   ,300   ,"0,00   ",0   ,Zuschüsse zur Betreuung von Bediensteten
 3,310,453,1,12,379.500   ,379.500   ,"231.202,79   ",0   ,Trennungsentschädigung und Umzugskostenvergütung
-3,310,511,1,12,8.491.200   ,7.970.400   ,"6.580.788,51   ",930.000   ,"Geschäftsbedarf und Kommunikation sowie Geräte, Ausstattungs- und Ausrüstungsgegenstände, sonstige Gebrauchsgegenstände"
+3,310,511,1,12,8.340.200   ,7.920.100   ,"6.580.788,51   ",930.000   ,"Geschäftsbedarf und Kommunikation sowie Geräte, Ausstattungs- und Ausrüstungsgegenstände, sonstige Gebrauchsgegenstände"
 3,310,511,10,12,751.000   ,751.000   ,"218.522,88   ",0   ,Kosten der Mitteilungsblätter der Bezirksregierungen
 3,310,511,11,12,5.400   ,5.400   ,"5.375,53   ",0   ,Kosten des Grundstückmarktberichtes
 3,310,514,1,12,850.300   ,422.400   ,"1.142.894,05   ",0   ,Haltung von Dienstfahrzeugen
@@ -901,10 +902,10 @@
 3,310,633,30,12,0   ,0   ,"0,00   ",0   ,Erstattungen von Verwaltungsausgaben an Gemeinden und Gemeindeverbände (GV)
 3,310,671,0,712,17.000   ,17.000   ,"13.877,63   ",0   ,Erstattung von Verwaltungsausgaben an die Träger der ehemaligen Seemannsämter
 3,310,686,10,12,3.400   ,2.900   ,"1.121,00   ",0   ,Sonstige Zuschüsse für laufende Zwecke
-3,310,686,20,12,1.199.600   ,1.199.600   ,"1.072.252,79   ",0   ,Zuschüsse für die Arbeit in den Regionalräten
+3,310,686,20,12,1.379.600   ,1.199.600   ,"1.072.252,79   ",0   ,Zuschüsse für die Arbeit in den Regionalräten
 3,310,811,1,12,2.542.300   ,410.800   ,"186.685,32   ",100.000   ,Erwerb von Dienstkraftfahrzeugen
 3,310,811,10,12,400   ,400   ,"0,00   ",0   ,Erwerb von Dienstfahrrädern
-3,310,812,10,12,2.082.500   ,1.168.400   ,"800.819,50   ",320.000   ,"Erwerb von Geräten, Ausstattungs- und Ausrüstungsgegenständen"
+3,310,812,10,12,2.066.000   ,1.162.800   ,"800.819,50   ",320.000   ,"Erwerb von Geräten, Ausstattungs- und Ausrüstungsgegenständen"
 3,310,989,0,891,0   ,0   ,"5.721.819,07   ",0   ,Haushaltstechnische Verrechnungen
 3,310,422,60,45,462.700   ,426.300   ,"241.197,84   ",0   ,"Bezüge und Nebenleistungen der Beamtinnen und Beamten, Richterinnen und Richter"
 3,310,428,60,45,4.184.400   ,3.897.900   ,"4.509.079,24   ",0   ,Entgelte der Arbeitnehmerinnen und Arbeitnehmer
@@ -1170,11 +1171,11 @@
 3,350,812,61,133,0   ,0   ,"0,00   ",0   ,Erwerb von Geräten und sonstigen beweglichen Sachen
 3,610,121,10,14,0   ,0   ,"0,00   ",0   ,Ablieferungen des Landesbetriebs Information und Technik NRW
 3,610,231,0,14,0   ,0   ,"0,00   ",0   ,Zuweisungen vom Bund für den Zensus 2011
-3,610,232,0,14,11.000.000   ,0   ,"0,00   ",0   ,Zuweisungen von Ländern für die Durchführung des Zensus 2011
+3,610,232,0,14,13.000.000   ,0   ,"0,00   ",0   ,Zuweisungen von Ländern für die Durchführung des Zensus 2011
 3,610,422,1,14,0   ,0   ,"0,00   ",0   ,"Bezüge und Nebenleistungen der Beamtinnen und Beamten, Richterinnen und Richter"
 3,610,632,0,14,0   ,0   ,"0,00   ",0   ,"Erstattung von Mehrausgaben an die Länder Bayern und Sachsen für die Verbundteilprojekte ""Bereitstellung der Informationstechnik für den Zensus"""
 3,610,633,0,14,0   ,0   ,"15.000.100,00   ",0   ,Erstattung von Ausgaben an Gemeinden und Gemeindeverbände für den Zensus 2011
-3,610,682,10,14,65.231.800   ,61.393.100   ,"78.516.100,00   ",0   ,Betriebskostenzuschuss des Landes für zuführungsfinanzierte Aufgaben
+3,610,682,10,14,67.231.800   ,61.393.100   ,"78.516.100,00   ",0   ,Betriebskostenzuschuss des Landes für zuführungsfinanzierte Aufgaben
 3,610,891,10,14,0   ,0   ,"0,00   ",0   ,Investitionszuschuss für den Zensus
 3,610,891,20,14,0   ,0   ,"0,00   ",0   ,Investitionszuschuss
 3,710,119,1,44,200.000   ,150.000   ,"227.170,04   ",0   ,Vermischte Einnahmen
@@ -1439,12 +1440,13 @@
 4,20,529,30,11,4.300   ,5.100   ,"4.162,60   ",0   ,Aufwand der Schwerbehindertenvertretungen
 4,20,531,11,13,176.500   ,176.500   ,"133.289,77   ",0   ,Öffentlichkeitsarbeit
 4,20,531,12,13,152.500   ,152.500   ,"151.148,28   ",0   ,Veröffentlichungen zur Information der Bürger aus Fachbereichen des Ministeriums
+4,20,532,10,51,26.700.000   ,0   ,"0,00   ",0   ,Auslagen in Rechtssachen (einschl. Reisekosten)
 4,20,546,1,11,120.000   ,109.000   ,"36.945,56   ",0   ,Vermischte Ausgaben
 4,20,546,4,11,0   ,0   ,"2.663.420,44   ",0   ,Ausgaben für den Kauf des Firmentickets von Verkehrsunternehmen
 4,20,546,11,11,200.000   ,200.000   ,"0,00   ",0   ,Aufwendungen für Leistungen des Bau- und Liegenschaftsbetriebs NRW und anderer Dienstleister
-4,20,547,10,11,1.100.000   ,1.040.000   ,"972.022,24   ",0   ,Ausgaben für die Sicherung der Gerichte und Staatsanwaltschaften
+4,20,547,10,11,890.000   ,1.040.000   ,"972.022,24   ",0   ,Ausgaben für die Sicherung der Gerichte und Staatsanwaltschaften
 4,20,547,59,861,0   ,0   ,"8.221.600,00   ",0   ,Ausgaben im Rahmen der Regelung des § 9 Haushaltsgesetz
-4,20,631,0,11,64.000   ,34.000   ,"6.015,96   ",0   ,Kostenausgleich für Verfahren vor dem Europäischen Gerichtshof für Menschenrechte
+4,20,631,0,11,64.000   ,134.000   ,"6.015,96   ",0   ,Kostenausgleich für Verfahren vor dem Europäischen Gerichtshof für Menschenrechte
 4,20,632,10,59,70.000   ,70.000   ,"62.658,18   ",0   ,Anteil des Landes an den Kosten einer Kriminologischen Zentralstelle
 4,20,632,20,153,501.500   ,470.300   ,"397.875,21   ",0   ,Anteil des Landes an den Betriebskosten der Deutschen Richterakademie
 4,20,632,30,11,500.000   ,0   ,"0,00   ",0   ,Anteil des Landes an den Kosten der Neuordnung der bundeseinheitlichen Systeme der Personalbedarfsberechnung
@@ -1483,12 +1485,12 @@
 4,20,428,70,56,0   ,0   ,"0,00   ",0   ,Entgelte der Arbeitnehmerinnen und Arbeitnehmer
 4,20,547,70,56,37.000   ,54.000   ,"26.741,48   ",0   ,Nichtaufteilbare sächliche Verwaltungsausgaben
 4,20,811,70,51,0   ,0   ,"0,00   ",0   ,Erwerb von Dienstkraftfahrzeugen
-4,210,111,1,51,780.000.000   ,760.280.000   ,"783.773.101,67   ",0   ,Gebühren und tarifliche Entgelte
+4,210,111,1,51,867.900.000   ,800.280.000   ,"783.773.101,67   ",0   ,Gebühren und tarifliche Entgelte
 4,210,111,20,51,8.300.000   ,10.800.000   ,"8.274.911,78   ",0   ,Einnahmen aus Prozesskostenhilfe
 4,210,111,30,51,800.000   ,0   ,"764.603,28   ",0   ,Rückflüsse aus Verfahrenskostenstundung (in Insolvenz- und Restschuldbefreiungsverfahren)
 4,210,111,40,51,9.200.000   ,6.500.000   ,"9.137.307,85   ",0   ,Einnahmen aus Verfahrenskostenhilfe
 4,210,112,0,51,8.500.000   ,6.000.000   ,"11.593.627,92   ",0   ,Einnahmen aus der Vermögensabschöpfung
-4,210,112,1,51,160.000.000   ,179.230.500   ,"132.438.666,76   ",0   ,"Geldstrafen, Geldbußen, Gerichtskosten"
+4,210,112,1,51,160.000.000   ,389.230.500   ,"132.438.666,76   ",0   ,"Geldstrafen, Geldbußen, Gerichtskosten"
 4,210,119,1,51,4.200.000   ,3.300.000   ,"4.118.968,97   ",0   ,Vermischte Einnahmen
 4,210,124,1,51,520.000   ,480.000   ,"517.235,07   ",0   ,Mieten und Pachten
 4,210,132,1,51,40.000   ,30.000   ,"41.126,43   ",0   ,Erlöse aus der Veräußerung von beweglichen Sachen
@@ -1498,7 +1500,7 @@
 4,210,235,0,51,0   ,0   ,"0,00   ",0   ,Sonstige Zuweisungen von Sozialversicherungsträgern sowie von der Bundesagentur für Arbeit
 4,210,236,0,51,0   ,0   ,"73.349,24   ",0   ,Erstattungen von Sozialversicherungsträgern sowie von der Bundesagentur für Arbeit
 4,210,412,0,51,4.040.000   ,4.000.000   ,"3.900.087,82   ",0   ,Aufwendungen für ehrenamtlich Tätige
-4,210,422,1,51,668.883.100   ,650.713.700   ,"642.692.462,16   ",0   ,"Bezüge und Nebenleistungen der Beamtinnen und Beamten, Richterinnen und Richter"
+4,210,422,1,51,669.003.100   ,650.713.700   ,"642.692.462,16   ",0   ,"Bezüge und Nebenleistungen der Beamtinnen und Beamten, Richterinnen und Richter"
 4,210,422,2,51,10.671.200   ,9.598.000   ,"7.242.504,44   ",0   ,Bezüge und Nebenleistungen der Beamtinnen und Beamten auf Widerruf im Vorbereitungsdienst
 4,210,427,1,51,1.941.100   ,2.278.400   ,"15.838.305,03   ",0   ,Entgelte für Aushilfen
 4,210,427,21,51,0   ,0   ,"8.276,95   ",0   ,Entgelte für geprüfte Auszubildende
@@ -1530,11 +1532,11 @@
 4,210,539,0,51,800.000   ,800.000   ,"576.234,12   ",0   ,Durchführung der Ferienpraxis und Rechtskundeunterricht an Schulen (einschl. Reisekosten)
 4,210,545,0,51,400.000   ,400.000   ,"33.608,02   ",0   ,Kosten für die technische Sicherung von Wohnungen
 4,210,546,1,51,100.000   ,100.000   ,"57.797,48   ",0   ,Vermischte Ausgaben
-4,210,546,2,51,7.000.000   ,7.000.000   ,"6.380.455,53   ",0   ,Entschädigungs- und Ersatzleistungen an Dritte
+4,210,546,2,51,7.710.000   ,7.000.000   ,"6.380.455,53   ",0   ,Entschädigungs- und Ersatzleistungen an Dritte
 4,210,546,3,51,165.000   ,165.000   ,"99.022,67   ",0   ,Ausgaben für den Umzug und die Verlegung von Dienststellen
-4,210,546,40,51,660.000   ,660.000   ,"590.044,87   ",0   ,Zinsen hinterlegter Gelder und Auslagen in Hinterlegungssachen
+4,210,546,40,51,660.000   ,1.060.000   ,"590.044,87   ",0   ,Zinsen hinterlegter Gelder und Auslagen in Hinterlegungssachen
 4,210,546,41,51,0   ,0   ,"2.205,70   ",0   ,Entschädigungsleistungen nach dem Gesetz über den Rechtsschutz bei überlangen Gerichtsverfahren und strafrechtlichen Ermittlungsverfahren
-4,210,546,50,51,229.100.000   ,220.120.000   ,"202.941.049,18   ",0   ,"Aufwandsentschädigung und Vergütung an Vormünder, Pfleger und Betreuer"
+4,210,546,50,51,232.900.000   ,221.720.000   ,"202.941.049,18   ",0   ,"Aufwandsentschädigung und Vergütung an Vormünder, Pfleger und Betreuer"
 4,210,547,10,51,0   ,0   ,"0,00   ",0   ,Ausgaben für die Langzeitarchivierung von Akten
 4,210,547,11,51,61.500   ,0   ,"0,00   ",0   ,"Ausgaben für das Projekt ""Einführung der IP-Telefonie"""
 4,210,547,20,51,0   ,0   ,"0,00   ",0   ,Kosten der Überführung von Daten nach § 9 Testamentsverzeichnis-Überführungsgesetz
@@ -1663,8 +1665,8 @@
 4,240,124,1,51,7.100   ,9.300   ,"7.033,32   ",0   ,Mieten und Pachten
 4,240,132,1,51,0   ,100   ,"0,00   ",0   ,Erlöse aus der Veräußerung von beweglichen Sachen
 4,240,412,0,51,1.100.000   ,1.100.000   ,"1.003.708,49   ",0   ,Entschädigungen für die ehrenamtlichen Richter
-4,240,422,1,51,18.784.800   ,19.112.400   ,"18.574.951,82   ",0   ,"Bezüge und Nebenleistungen der Beamtinnen und Beamten, Richterinnen und Richter"
-4,240,427,1,51,286.100   ,376.100   ,"265.153,29   ",0   ,Entgelte für Aushilfen
+4,240,422,1,51,19.144.800   ,19.112.400   ,"18.574.951,82   ",0   ,"Bezüge und Nebenleistungen der Beamtinnen und Beamten, Richterinnen und Richter"
+4,240,427,1,51,16.100   ,376.100   ,"265.153,29   ",0   ,Entgelte für Aushilfen
 4,240,428,1,51,15.632.300   ,15.330.600   ,"15.262.616,09   ",0   ,Entgelte der Arbeitnehmerinnen und Arbeitnehmer
 4,240,453,1,51,28.700   ,20.000   ,"28.651,43   ",0   ,Trennungsentschädigung und Umzugskostenvergütung
 4,240,511,0,51,1.247.500   ,1.236.000   ,"0,00   ",0   ,Ausgaben für die Kommunikation
@@ -1699,8 +1701,8 @@
 4,250,124,1,51,1.000   ,600   ,"572,76   ",0   ,Mieten und Pachten
 4,250,132,1,51,0   ,0   ,"0,00   ",0   ,Erlöse aus der Veräußerung von beweglichen Sachen
 4,250,412,0,51,537.000   ,537.000   ,"526.736,75   ",0   ,Entschädigungen für die ehrenamtlichen Richter
-4,250,422,1,51,25.683.900   ,24.746.700   ,"24.805.165,21   ",0   ,"Bezüge und Nebenleistungen der Beamtinnen und Beamten, Richterinnen und Richter"
-4,250,427,1,51,518.100   ,180.800   ,"288.539,07   ",0   ,Entgelte für Aushilfen
+4,250,422,1,51,25.803.900   ,24.746.700   ,"24.805.165,21   ",0   ,"Bezüge und Nebenleistungen der Beamtinnen und Beamten, Richterinnen und Richter"
+4,250,427,1,51,398.100   ,180.800   ,"288.539,07   ",0   ,Entgelte für Aushilfen
 4,250,428,1,51,19.279.200   ,18.438.800   ,"18.576.907,10   ",0   ,Entgelte der Arbeitnehmerinnen und Arbeitnehmer
 4,250,451,1,51,0   ,0   ,"0,00   ",0   ,Zuschüsse zur Betreuung von Bediensteten
 4,250,453,1,51,24.500   ,24.500   ,"14.110,87   ",0   ,Trennungsentschädigung und Umzugskostenvergütung
@@ -1801,7 +1803,7 @@
 4,410,684,30,56,682.000   ,682.000   ,"205.184,10   ",0   ,Zuwendungen für den Vollzug der Jugendstrafe in freien Formen
 4,410,684,40,56,222.400   ,222.400   ,"172.387,76   ",0   ,Zuwendungen zur Haftverkürzung an freie Träger
 4,410,684,50,56,205.000   ,205.000   ,"35.231,60   ",0   ,Zuwendungen an freie Träger für Maßnahmen des Übergangsmanagements im Jugendarrest
-4,410,711,52,811,7.735.000   ,7.735.000   ,"3.420.912,88   ",0   ,Grunderneuerung von Justizvollzugsanstalten einschließlich damit zusammenhängender Erweiterungsmaßnahmen
+4,410,711,52,811,7.735.000   ,7.735.000   ,"3.420.912,88   ",7.735.000   ,Grunderneuerung von Justizvollzugsanstalten einschließlich damit zusammenhängender Erweiterungsmaßnahmen
 4,410,811,1,56,1.517.300   ,502.300   ,"1.174.599,03   ",400.000   ,Erwerb von Dienstkraftfahrzeugen
 4,410,812,10,56,4.997.700   ,4.532.700   ,"2.704.123,95   ",2.095.000   ,Erwerb von Geräten und sonstigen beweglichen Sachen
 4,410,812,20,56,0   ,200.000   ,"21.428,61   ",300.000   ,Erwerb von Fernmeldeanlagen
@@ -2013,7 +2015,7 @@
 5,20,529,20,111,50.000   ,50.000   ,"28.563,54   ",0   ,Aufwand der Personalvertretungen
 5,20,529,30,111,8.700   ,8.700   ,"7.820,59   ",0   ,Aufwand der Schwerbehindertenvertretungen
 5,20,534,0,29,60.000   ,60.000   ,"5.038,90   ",0   ,Ausgaben für die Pflege von Auslandsbeziehungen und Förderung der politischen Zusammenarbeit
-5,20,539,10,24,60.000   ,60.000   ,"38.049,59   ",0   ,"Veranstaltungen und Betreuung für Vertreter des ausländischen Schulwesens und für ausländische Lehrkräfte, sowie Rückkehrerseminare, Vorbereitung der Beschäftigung und Stipendien für ausländische Lehrkräfte, Auswahl deutscher Fremdsprachenassistenten sowi"
+5,20,539,10,24,60.000   ,60.000   ,"38.049,59   ",0   ,"Veranstaltungen und Betreuung für Vertreter des ausländischen Schulwesens und für ausländische Lehrkräfte, sowie Rückkehrerseminare, Vorbereitung der Beschäftigung und Stipendien für ausländische Lehrkräfte, Auswahl deutscher Fremdsprachenassistenten sowie Förderung des Deutschunterrichts an ausländischen Schulen"
 5,20,545,0,111,2.920.000   ,2.920.000   ,"2.717.722,00   ",0   ,Betriebsärztlicher Dienst und Fachkräfte für Arbeitssicherheit
 5,20,546,2,111,49.000   ,49.000   ,"57.100,16   ",0   ,Entschädigungs- und Ersatzleistungen an Dritte
 5,20,546,4,11,110.000   ,110.000   ,"137.516,10   ",0   ,Ausgaben für den Kauf des Firmentickets von Verkehrsunternehmen
@@ -2066,11 +2068,11 @@
 5,20,686,99,155,0   ,0   ,"0,00   ",0   ,Sonstige Zuschüsse für laufende Zwecke im Inland
 5,30,119,1,111,20.000   ,20.000   ,"27.842,11   ",0   ,Vermischte Einnahmen
 5,30,121,0,129,0   ,0   ,"0,00   ",0   ,Gewinne aus Unternehmungen und Beteiligungen
-5,30,231,10,144,21.450.000   ,21.450.000   ,"18.658.350,98   ",0   ,Zweckgebundene Zuweisungen des Bundes für die berufliche Aufstiegsfortbildung nach dem Aufstiegsfortbildungsförderungsgesetz (AFBG)
+5,30,231,10,144,21.450.000   ,22.152.000   ,"18.658.350,98   ",0   ,Zweckgebundene Zuweisungen des Bundes für die berufliche Aufstiegsfortbildung nach dem Aufstiegsfortbildungsförderungsgesetz (AFBG)
 5,30,232,0,111,78.600   ,78.600   ,"65.652,49   ",0   ,Erstattung der Abwicklungskosten des ehemaligen Deutschen Bildungsrates durch die Länder
 5,30,231,61,141,134.173.000   ,136.500.000   ,"129.427.262,47   ",0   ,Zuweisungen für Zuschüsse.
 5,30,331,61,141,1.105.000   ,1.755.000   ,"139.765,05   ",0   ,Zuweisungen für Darlehen.
-5,30,632,10,11,4.018.800   ,4.016.200   ,"3.762.601,99   ",0   ,Anteil des Landes an den Kosten des Sekretariats der Kultusministerkonferenz
+5,30,632,10,11,4.049.100   ,4.016.200   ,"3.762.601,99   ",0   ,Anteil des Landes an den Kosten des Sekretariats der Kultusministerkonferenz
 5,30,632,20,129,73.000   ,73.000   ,"49.995,60   ",0   ,Anteil des Landes an den Personalkosten für die Unterrichtung von Schülern/-innen in der Hochgebirgsklinik Davos (Schweiz)
 5,30,632,30,111,909.400   ,909.400   ,"899.917,61   ",0   ,Anteil des Landes an den Kosten zur Entwicklung und Überprüfung der nationalen Bildungsstandards durch das Institut zur Qualitätsentwicklung im Bildungswesen (IQB) in Berlin
 5,30,632,31,111,493.300   ,493.300   ,"311.375,47   ",0   ,Anteil des Landes an den Kosten für internationale Studien und Berichten zur Feststellung der Leistungsfähigkeit des Bildungswesens im internationalen Vergleich
@@ -2083,7 +2085,7 @@
 5,30,863,61,141,1.700.000   ,2.700.000   ,"214.637,93   ",0   ,Darlehen im Rahmen der Ausbildungsförderung
 5,30,661,63,144,2.000.000   ,2.000.000   ,"1.404.303,20   ",0   ,Schuldendienstleistungen
 5,30,671,63,144,200.000   ,200.000   ,"149.006,00   ",0   ,Erstattungen an Inland
-5,30,681,63,144,27.500.000   ,27.500.000   ,"23.983.763,46   ",0   ,Zuschüsse im Rahmen der Aufstiegsfortbildungsförderung
+5,30,681,63,144,27.500.000   ,28.400.000   ,"23.983.763,46   ",0   ,Zuschüsse im Rahmen der Aufstiegsfortbildungsförderung
 5,72,111,1,152,0   ,0   ,"20.209,31   ",0   ,Gebühren und tarifliche Entgelte
 5,72,119,1,152,0   ,0   ,"-94.670,94   ",0   ,Vermischte Einnahmen
 5,72,526,1,11,0   ,0   ,"0,00   ",0   ,Sachverständige
@@ -2361,7 +2363,7 @@
 5,340,422,1,114,1.562.017.800   ,1.545.799.400   ,"1.467.818.768,75   ",0   ,"Bezüge und Nebenleistungen der Beamtinnen und Beamten, Richterinnen und Richter"
 5,340,427,10,114,0   ,0   ,"0,00   ",0   ,Entgelte für nebenamtliche und nebenberufliche Tätigkeit
 5,340,428,1,114,132.012.200   ,125.209.400   ,"266.900.011,61   ",0   ,Entgelte der Arbeitnehmerinnen und Arbeitnehmer
-5,340,685,10,114,20.050.000   ,19.789.800   ,"19.489.000,00   ",0   ,Zuschüsse gem. § 124 Abs. 4 Schulgesetz und vertragliche Zuschüsse
+5,340,685,10,114,20.700.000   ,19.789.800   ,"19.489.000,00   ",0   ,Zuschüsse gem. § 124 Abs. 4 Schulgesetz und vertragliche Zuschüsse
 5,340,685,30,114,5.492.900   ,5.556.100   ,"5.111.100,00   ",0   ,Zuschüsse für die vom Staat und anderen gemeinsam zu unterhaltenden öffentlichen Gymnasien
 5,350,119,1,114,0   ,0   ,"0,00   ",0   ,Vermischte Einnahmen
 5,350,422,1,114,79.959.600   ,24.473.800   ,"9.140.468,36   ",0   ,"Bezüge und Nebenleistungen der Beamtinnen und Beamten, Richterinnen und Richter"
@@ -2442,7 +2444,7 @@
 5,490,547,11,115,440.000   ,440.000   ,"130.545,44   ",0   ,Aufwendungen für Leistungen der Rechenzentren des Landes im Rahmen der Ersatzschulfinanzierung
 5,490,636,10,115,0   ,0   ,"0,00   ",0   ,Sonstige Zuweisungen an Sozialversicherungsträger
 5,490,681,20,141,0   ,0   ,"599.320,00   ",0   ,Zuschüsse zu den Verpflegungskosten an privaten Förderschulen als Ganztagsschulen
-5,490,684,11,115,598.847.300   ,572.812.600   ,"555.016.388,75   ",0   ,Zuschüsse für private Gymnasien
+5,490,684,11,115,598.847.300   ,577.912.600   ,"555.016.388,75   ",0   ,Zuschüsse für private Gymnasien
 5,490,684,12,115,114.272.400   ,108.543.400   ,"108.987.104,87   ",0   ,Zuschüsse für private Realschulen
 5,490,684,13,125,187.705.100   ,181.357.600   ,"173.322.002,28   ",0   ,Zuschüsse für private Förderschulen
 5,490,684,14,115,53.044.900   ,46.937.000   ,"48.122.677,24   ",0   ,Zuschüsse für private Grund- und Hauptschulen
@@ -2629,10 +2631,10 @@
 6,30,119,1,164,150.000   ,150.000   ,"376.181,44   ",0   ,Vermischte Einnahmen
 6,30,121,0,164,0   ,0   ,"1,00   ",0   ,Gewinne aus Unternehmungen und Beteiligungen
 6,30,182,20,142,4.000   ,4.000   ,"2.492,10   ",0   ,Tilgung von Darlehen im Rahmen der Graduiertenförderung
-6,30,231,11,164,35.854.700   ,33.833.800   ,"31.387.260,52   ",0   ,Zweckgebundene Zuweisungen des Bundes für die Betriebskosten der Forschungs- und Serviceeinrichtungen von überregionaler Bedeutung im Land NRW
+6,30,231,11,164,38.091.200   ,33.833.800   ,"31.387.260,52   ",0   ,Zweckgebundene Zuweisungen des Bundes für die Betriebskosten der Forschungs- und Serviceeinrichtungen von überregionaler Bedeutung im Land NRW
 6,30,231,21,137,0   ,0   ,"648.750,00   ",0   ,Zweckgebundene Zuweisungen des Bundes zur Finanzierung der Deutschen Forschungsgemeinschaft
 6,30,231,31,164,1.255.100   ,1.238.800   ,"1.029.250,00   ",0   ,"Zweckgebundene Zuweisungen des Landes Berlin zur Finanzierung der Gesellschaft zur Förderung der Analytischen Wissenschaften e. V. Dortmund, Außenstelle Berlin"
-6,30,331,11,164,3.943.500   ,2.316.000   ,"2.013.395,44   ",0   ,Zweckgebundene Zuweisungen des Bundes für die Investitionskosten der Forschungs- und Serviceeinrichtungen von überregionaler Bedeutung im Lande NRW
+6,30,331,11,164,4.168.500   ,2.316.000   ,"2.013.395,44   ",0   ,Zweckgebundene Zuweisungen des Bundes für die Investitionskosten der Forschungs- und Serviceeinrichtungen von überregionaler Bedeutung im Lande NRW
 6,30,331,12,164,355.000   ,355.000   ,"354.911,04   ",0   ,Zweckgebundene Zuweisung des Bundes zu den Mietkosten für das Institut für Analytische Wissenschaften in Dortmund
 6,30,631,20,139,400.000   ,400.000   ,"400.000,00   ",0   ,Zuweisung des Landesanteils an der Programmförderung des Institute for Enviroment and Human Security der United Nations University (UNU-EHS) in Bonn an den Bund
 6,30,631,30,164,495.800   ,495.800   ,"0,00   ",0   ,Zuweisung des Landesanteils für die Nationale Kohorte an den Bund
@@ -2640,13 +2642,13 @@
 6,30,632,50,139,284.000   ,284.000   ,"277.633,00   ",0   ,Anteil des Landes an der gemeinsamen Länderfinanzierung der Deutsch-Französischen Hochschule
 6,30,685,15,139,120.000   ,75.000   ,"71.675,56   ",0   ,Anteil des Landes an den Kosten der Stiftung zur Akkreditierung von Studiengängen in Deutschland
 6,30,685,16,139,0   ,0   ,"0,00   ",0   ,Anteil des Landes an der Betreiberabgabe gemäß § 54 c UrhG
-6,30,685,18,162,390.000   ,0   ,"697.351,56   ",0   ,Anteil des Landes an der Abgeltung urheberrechtlicher Ansprüche für die öffentliche Zugänglichmachung für Unterricht und Forschung gemäß § 52 a und b UrhG
+6,30,685,18,162,390.000   ,228.000   ,"697.351,56   ",0   ,Anteil des Landes an der Abgeltung urheberrechtlicher Ansprüche für die öffentliche Zugänglichmachung für Unterricht und Forschung gemäß § 52 a und b UrhG
 6,30,685,19,162,130.000   ,366.000   ,"0,00   ",0   ,Anteil des Landes an den Kosten des Kopienversandes gemäß § 53 a UrhG
 6,30,686,11,139,560.000   ,535.000   ,"514.178,42   ",0   ,Anteil des Landes an den Kosten des Wissenschaftsrates
 6,30,686,12,139,450.000   ,435.000   ,"409.309,41   ",0   ,Anteil des Landes an den Kosten der Stiftung zur Förderung der Hochschulrektorenkonferenz
 6,30,686,13,153,40.000   ,40.000   ,"15.109,64   ",0   ,"Anteil des Landes an den Kosten der Informationsschrift ""Studien- und Berufswahl"" und der hochschulrechtlichen Dokumentation der KMK"
 6,30,686,18,139,1.333.200   ,1.298.400   ,"1.293.526,41   ",0   ,Anteil des Landes an den Betriebskosten der Hochschul-Informations-System GmbH bzw. deren Nachfolge
-6,30,686,21,137,162.500.000   ,154.500.000   ,"147.958.670,00   ",0   ,Anteil des Landes an der Finanzierung der Betriebskosten der Deutschen Forschungsgemeinschaft (einschließlich der Förderung der Sonderforschungsbereiche)
+6,30,686,21,137,162.561.000   ,154.500.000   ,"147.958.670,00   ",0   ,Anteil des Landes an der Finanzierung der Betriebskosten der Deutschen Forschungsgemeinschaft (einschließlich der Förderung der Sonderforschungsbereiche)
 6,30,686,22,164,106.000.000   ,96.754.000   ,"94.400.000,00   ",0   ,Anteil des Landes an der Finanzierung der Betriebskosten der Max-Planck-Gesellschaft
 6,30,686,23,164,7.000.000   ,7.284.000   ,"6.400.000,00   ",0   ,Anteil des Landes an der Finanzierung der Betriebskosten der Fraunhofer-Gesellschaft
 6,30,686,24,164,26.395.000   ,25.570.000   ,"24.327.000,00   ",0   ,Anteil des Landes an der Finanzierung der Personal- und Sachaufwendungen der Forschungszentrum Jülich GmbH (FZJ)
@@ -2660,13 +2662,14 @@
 6,30,686,33,164,6.007.500   ,5.788.100   ,"5.501.300,00   ",0   ,"Zuschuss an das Deutsche Bergbau-Museum, Bochum"
 6,30,686,34,164,3.965.000   ,3.580.000   ,"3.437.926,04   ",0   ,Anteil des Landes an der Finanzierung der Union der Deutschen Akademien der Wissenschaften e. V.
 6,30,686,36,164,4.112.000   ,4.477.000   ,"4.291.000,00   ",0   ,"Zuschuss zu den Betriebskosten an die Gesellschaft für Arterioskleroseforschung e. V., Münster"
+6,30,686,37,164,4.473.000   ,0   ,"0,00   ",0   ,Zuschuss an das DWI - Leibniz-Institut für Interaktive Materialien
 6,30,686,38,164,270.000   ,270.000   ,"265.250,00   ",0   ,Anteil des Landes an der Finanzierung der Deutschen Akademie der Technikwissenschaften (acatech)
 6,30,686,40,165,2.653.000   ,1.531.000   ,"3.068.000,00   ",0   ,Aufbau einer neuen Forschungseinheit für Solarforschung (Betriebskosten) beim Deutschen Zentrum für Luft- und Raumfahrt e. V.
 6,30,686,41,164,100.000   ,100.000   ,"91.953,20   ",0   ,Anteil des Landes an der Finanzierung der Deutschen Digitalen Bibliothek
 6,30,686,42,164,5.799.500   ,5.531.000   ,"5.202.900,00   ",0   ,Zuschuss des Landes an die Gesellschaft zur Förderung der umweltmedizinischen Forschung e. V. Düsseldorf
 6,30,686,43,139,1.892.000   ,1.750.000   ,"3.349.764,00   ",0   ,Zuschuss des Landes an die Stiftung für Hochschulzulassung in Dortmund
-6,30,686,44,163,6.144.900   ,0   ,"0,00   ",32.000.000   ,"Zuschuss an die Stiftung ""Zoologisches Forschungsmuseum Alexander Koenig - Leibniz-Institut für Biodiversität der Tiere"""
-6,30,686,47,164,845.000   ,572.000   ,"0,00   ",0   ,Zuschuss des Landes an die Fachhochschule Ostwestfalen-Lippe zu den Betriebsausgaben des Fraunhofer Anwendungszentrums INA
+6,30,686,44,163,6.144.900   ,0   ,"0,00   ",0   ,"Zuschuss an die Stiftung ""Zoologisches Forschungsmuseum Alexander Koenig - Leibniz-Institut für Biodiversität der Tiere"""
+6,30,686,47,164,845.000   ,572.000   ,"0,00   ",0   ,Zuschuss des Landes zu den Betriebsausgaben des Fraunhofer Anwendungszentrums INA an der Fachhochschule Ostwestfalen-Lippe
 6,30,892,16,164,9.096.200   ,10.773.000   ,"10.735.877,52   ",0   ,Anteil des Landes an den Kosten der Herrichtung des ehemaligen Versuchsreaktorgeländes in Jülich (AVR)
 6,30,892,18,139,0   ,30.000   ,"0,00   ",0   ,Zuschuss zu den Investitionen der Hochschul-Informations-System GmbH
 6,30,892,21,137,6.692.000   ,5.100.000   ,"4.831.376,00   ",0   ,Anteil des Landes an der Finanzierung der Investitionen der Deutschen Forschungsgemeinschaft (einschließlich der Förderung der Sonderforschungsbereiche)
@@ -2681,14 +2684,18 @@
 6,30,892,32,162,42.000   ,40.000   ,"40.000,00   ",0   ,"Zuschuss an das Deutsche Institut für Erwachsenenbildung - Leibniz-Zentrum für Lebenslanges Lernen - e. V., Bonn für Investitionen"
 6,30,892,33,164,386.100   ,632.000   ,"628.900,00   ",0   ,"Zuschuss an das Deutsche Bergbau-Museum, Bochum, für Investitionen"
 6,30,892,35,164,3.000.000   ,800.000   ,"0,00   ",0   ,Sonderfinanzierung des Landes an der Herrichtung des Instituts für Biotechnologie der Forschungszentrum Jülich GmbH
+6,30,892,37,164,450.000   ,0   ,"0,00   ",0   ,Zuschuss an das DWI - Leibniz-Institut für Interaktive Materialien für Investitionen
 6,30,892,40,165,75.000   ,1.313.000   ,"0,00   ",0   ,Aufbau einer neuen Forschungseinheit für Solarforschung (Investitionen) beim Deutschen Zentrum für Luft- und Raumfahrt e.V.
 6,30,892,42,164,719.000   ,250.000   ,"250.000,00   ",0   ,Anteil des Landes an den Investitionskosten des Instituts für Umweltmedizinische Forschung in Düsseldorf
 6,30,892,43,139,13.000   ,13.000   ,"146.327,00   ",0   ,Anteil des Landes an den Investitionskosten der Stiftung für Hochschulzulassung in Dortmund
-6,30,892,44,163,914.900   ,0   ,"0,00   ",0   ,"Zuschuss an die Stiftung ""Zoologisches Forschungsmuseum Alexander Koenig - Leibniz-Institut für Biodiversität der Tiere"" für Investitionen"
+6,30,892,44,163,914.900   ,0   ,"0,00   ",26.600.000   ,"Zuschuss an die Stiftung ""Zoologisches Forschungsmuseum Alexander Koenig - Leibniz-Institut für Biodiversität der Tiere"" für Investitionen"
 6,30,892,46,164,250.000   ,0   ,"0,00   ",0   ,Sanierung des Gebäudes der Alexander von Humboldt Stiftung in Bonn
 6,30,892,47,164,0   ,0   ,"0,00   ",0   ,Zuschuss des Landes an die Fachhochschule Ostwestfalen-Lippe zu den Investitionsausgaben des Fraunhofer Anwendungszentrums INA
 6,30,892,48,164,350.000   ,0   ,"0,00   ",12.007.000   ,Anteil des Landes an der Sanierung des Fraunhofer-Instituts für Molekularbiologie und Angewandte Ökologie in Schmallenberg
 6,30,892,49,164,0   ,0   ,"0,00   ",0   ,Anteil des Landes an der Sanierung Campus Birlinghoven der Fraunhofer-Gesellschaft
+6,30,422,61,164,0   ,0   ,"0,00   ",0   ,"Bezüge und Nebenleistungen der Beamtinnen und Beamten, Richterinnen und Richter"
+6,30,686,61,164,11.778.600   ,0   ,"0,00   ",0   ,Zuschüsse zu den Personal- und Sachaufwendungen
+6,30,892,61,164,249.200   ,0   ,"0,00   ",0   ,Zuschüsse zu den Investitionen
 6,30,686,62,164,0   ,0   ,"0,00   ",0   ,Zuschüsse zu den Personal- und Sachaufwendungen
 6,30,892,62,164,0   ,7.000.000   ,"7.300.000,00   ",0   ,Zuschüsse zu den Bau- und Ersteinrichtungskosten
 6,30,686,63,164,3.600.000   ,3.363.600   ,"2.561.985,14   ",0   ,Anteil des Landes an der Finanzierung der Personal- und Sachaufwendungen des Deutschen Zentrums für Neurodegenerative Erkrankungen
@@ -2701,7 +2708,7 @@
 6,30,686,66,164,0   ,0   ,"0,00   ",0   ,Zuschüsse zu den Personal- und Sachaufwendungen
 6,30,892,66,164,2.800.000   ,11.000.000   ,"0,00   ",0   ,Zuschüsse zu den Bau- und Ersteinrichtungskosten
 6,30,547,68,164,0   ,0   ,"0,00   ",0   ,Sächliche Verwaltungsausgaben
-6,30,686,68,164,3.750.000   ,2.000.000   ,"0,00   ",0   ,Zuschüsse zu den Personal- und Sachaufwendungen
+6,30,686,68,164,0   ,2.000.000   ,"0,00   ",0   ,Zuschüsse zu den Personal- und Sachaufwendungen
 6,30,892,68,164,0   ,0   ,"0,00   ",0   ,Zuschüsse zu den Investitionen
 6,40,119,1,165,4.000   ,4.000   ,"149.648,60   ",0   ,Vermischte Einnahmen
 6,40,121,0,165,0   ,0   ,"0,00   ",0   ,Gewinne aus Unternehmungen und Beteiligungen
@@ -2717,11 +2724,14 @@
 6,40,686,70,164,5.148.000   ,5.148.000   ,"5.074.000,00   ",0   ,Zuschüsse zu den Personal- und Sachaufwendungen
 6,40,892,70,164,666.000   ,666.000   ,"740.000,00   ",0   ,Zuschüsse zu den Investitionen
 6,40,547,73,165,0   ,0   ,"0,00   ",0   ,Sächliche Verwaltungsausgaben
-6,40,686,73,165,7.941.100   ,7.941.100   ,"9.721.199,40   ",0   ,Zuschüsse zu den Personal- und Sachaufwendungen
+6,40,686,73,165,3.038.600   ,7.941.100   ,"9.721.199,40   ",0   ,Zuschüsse zu den Personal- und Sachaufwendungen
 6,40,893,73,165,0   ,0   ,"0,00   ",0   ,Zuschüsse zu den Investitionen
 6,40,547,74,165,0   ,0   ,"0,00   ",0   ,Sächliche Verwaltungsausgaben
 6,40,686,74,165,6.785.000   ,6.785.000   ,"6.485.000,00   ",0   ,Zuschüsse zu den Personal- und Sachaufwendungen
 6,40,893,74,165,1.100.000   ,1.100.000   ,"1.400.000,00   ",0   ,Zuschüsse zu den Investitionen
+6,40,547,75,165,0   ,0   ,"0,00   ",0   ,Sächliche Verwaltungsausgaben
+6,40,686,75,165,2.000.000   ,0   ,"0,00   ",2.000.000   ,Zuschüsse zu den Personal- und Sachaufwendungen
+6,40,892,75,165,0   ,0   ,"0,00   ",0   ,Zuschüsse zu den Investitionen
 6,70,111,24,164,0   ,80.000   ,"171.226,43   ",0   ,"Benutzungsgebühren für Lehrgänge und Vorträge, Eintrittsgelder"
 6,70,119,1,164,0   ,27.000   ,"18.948,35   ",0   ,Vermischte Einnahmen
 6,70,125,10,164,0   ,0   ,"31.851,06   ",0   ,Einnahmen aus Museumsshop und Veranstaltungen
@@ -2760,39 +2770,39 @@
 6,70,429,99,164,0   ,0   ,"958.688,23   ",0   ,Personalausgaben
 6,70,547,99,164,0   ,0   ,"961.283,48   ",0   ,Sächliche Verwaltungsausgaben
 6,70,812,99,164,0   ,0   ,"0,00   ",0   ,"Erwerb von Geräten, Ausstattungsgegenständen und Maschinen sowie sonstiger beweglicher Sachen"
-6,72,111,1,164,1.000.000   ,1.200.000   ,"1.060.214,98   ",0   ,Gebühren und tarifliche Entgelte
-6,72,119,1,164,25.500   ,25.500   ,"22.745,17   ",0   ,Vermischte Einnahmen
+6,72,111,1,164,0   ,1.200.000   ,"1.060.214,98   ",0   ,Gebühren und tarifliche Entgelte
+6,72,119,1,164,0   ,25.500   ,"22.745,17   ",0   ,Vermischte Einnahmen
 6,72,119,13,164,0   ,0   ,"91.708,97   ",0   ,Einnahmen aus dem Kopiendirektversand zur Abgeltung von urheberrechtlichen Ansprüchen an die VG Wort
 6,72,235,10,164,0   ,0   ,"4.052,84   ",0   ,Sonstige Zuweisungen von Sozialversicherungsträgern sowie von der Bundesagentur für Arbeit
 6,72,282,11,164,0   ,0   ,"79.448,30   ",0   ,Beiträge Dritter
-6,72,422,1,164,1.155.700   ,1.155.700   ,"1.002.020,33   ",0   ,"Bezüge und Nebenleistungen der Beamtinnen und Beamten, Richterinnen und Richter"
-6,72,427,1,164,286.800   ,236.800   ,"385.534,65   ",0   ,Entgelte für Aushilfen
-6,72,428,1,164,2.996.400   ,2.728.400   ,"2.756.607,36   ",0   ,Entgelte der Arbeitnehmerinnen und Arbeitnehmer
-6,72,441,0,164,84.900   ,61.500   ,"80.546,35   ",0   ,Beihilfen in Krankheits- und Pflegefällen aufgrund der Beihilfenverordnung
+6,72,422,1,164,0   ,1.155.700   ,"1.002.020,33   ",0   ,"Bezüge und Nebenleistungen der Beamtinnen und Beamten, Richterinnen und Richter"
+6,72,427,1,164,0   ,236.800   ,"385.534,65   ",0   ,Entgelte für Aushilfen
+6,72,428,1,164,0   ,2.728.400   ,"2.756.607,36   ",0   ,Entgelte der Arbeitnehmerinnen und Arbeitnehmer
+6,72,441,0,164,0   ,61.500   ,"80.546,35   ",0   ,Beihilfen in Krankheits- und Pflegefällen aufgrund der Beihilfenverordnung
 6,72,441,4,164,0   ,0   ,"0,00   ",0   ,Beiträge zur Arbeitslosenversicherung bei Inanspruchnahme von Pflegezeit im Bereich pflegebedürftiger Beamtinnen und Beamter bzw. deren Angehörigen
 6,72,441,5,164,0   ,0   ,"0,00   ",0   ,Zuschüsse zur Krankenversicherung bei Inanspruchnahme von Pflegezeit im Bereich pflegebedürftiger Beamtinnen und Beamter bzw. deren Angehörigen
-6,72,443,0,164,500   ,500   ,"355,00   ",0   ,Fürsorgeleistungen und Unterstützungen aufgrund der Unterstützungsgrundsätze
-6,72,453,1,164,500   ,500   ,"0,00   ",0   ,Trennungsentschädigung und Umzugskostenvergütung
-6,72,523,10,164,5.879.400   ,5.700.100   ,"4.731.947,17   ",0   ,Wissenschaftliche Literatur
-6,72,527,1,164,10.000   ,10.000   ,"28.266,26   ",0   ,Reisekostenvergütungen für Dienstreisen
-6,72,527,2,164,600   ,600   ,"1.438,86   ",0   ,Reisekostenvergütungen für Reisen in Personalvertretungs- und Schwerbehindertenangelegenheiten
-6,72,529,10,164,200   ,200   ,"199,90   ",0   ,Zur Verfügung des Direktors
-6,72,529,11,164,100   ,100   ,"100,00   ",0   ,Aufwand der Personalvertretung
+6,72,443,0,164,0   ,500   ,"355,00   ",0   ,Fürsorgeleistungen und Unterstützungen aufgrund der Unterstützungsgrundsätze
+6,72,453,1,164,0   ,500   ,"0,00   ",0   ,Trennungsentschädigung und Umzugskostenvergütung
+6,72,523,10,164,0   ,5.700.100   ,"4.731.947,17   ",0   ,Wissenschaftliche Literatur
+6,72,527,1,164,0   ,10.000   ,"28.266,26   ",0   ,Reisekostenvergütungen für Dienstreisen
+6,72,527,2,164,0   ,600   ,"1.438,86   ",0   ,Reisekostenvergütungen für Reisen in Personalvertretungs- und Schwerbehindertenangelegenheiten
+6,72,529,10,164,0   ,200   ,"199,90   ",0   ,Zur Verfügung des Direktors
+6,72,529,11,164,0   ,100   ,"100,00   ",0   ,Aufwand der Personalvertretung
 6,72,546,10,164,0   ,0   ,"179.559,49   ",0   ,Urheberrechtsabgaben
-6,72,547,12,164,957.500   ,957.500   ,"1.119.288,42   ",0   ,Sonstige sächliche Verwaltungsausgaben
-6,72,671,10,164,615.000   ,615.000   ,"552.665,87   ",0   ,Erstattungen an Inland
-6,72,686,10,164,419.700   ,414.700   ,"331.132,50   ",0   ,Beiträge an Organisationen im Inland
+6,72,547,12,164,0   ,957.500   ,"1.119.288,42   ",0   ,Sonstige sächliche Verwaltungsausgaben
+6,72,671,10,164,0   ,615.000   ,"552.665,87   ",0   ,Erstattungen an Inland
+6,72,686,10,164,0   ,414.700   ,"331.132,50   ",0   ,Beiträge an Organisationen im Inland
 6,72,711,1,164,0   ,0   ,"0,00   ",0   ,"Kleine Neu-, Um- und Erweiterungsbauten"
-6,72,812,13,164,249.200   ,249.200   ,"328.367,32   ",0   ,"Erwerb von Geräten, Ausstattungsgegenständen und Maschinen sowie sonstiger beweglicher Sachen zur Ergänzung und Erneuerung"
-6,72,981,10,891,331.700   ,331.700   ,"300.606,10   ",0   ,Erstattung von Versorgungsbezügen an Kapitel 06 900 Titel 381 10
-6,72,981,30,891,57.000   ,57.000   ,"0,00   ",0   ,Erstattung von Kosten an Kapitel 06 860 Titel 381 10 für den Anschluss an das Bibliotheksverbundsystem
-6,72,981,51,891,8.100   ,8.100   ,"7.599,01   ",0   ,"Erstattung der Zuführung an das Sondervermögen ""Versorgungsrücklage des Landes Nordrhein-Westfalen"" für Besoldungsempfänger (Kapitel 20 020 Titel 381 51)"
+6,72,812,13,164,0   ,249.200   ,"328.367,32   ",0   ,"Erwerb von Geräten, Ausstattungsgegenständen und Maschinen sowie sonstiger beweglicher Sachen zur Ergänzung und Erneuerung"
+6,72,981,10,891,0   ,331.700   ,"300.606,10   ",0   ,Erstattung von Versorgungsbezügen an Kapitel 06 900 Titel 381 10
+6,72,981,30,891,0   ,57.000   ,"0,00   ",0   ,Erstattung von Kosten an Kapitel 06 860 Titel 381 10 für den Anschluss an das Bibliotheksverbundsystem
+6,72,981,51,891,0   ,8.100   ,"7.599,01   ",0   ,"Erstattung der Zuführung an das Sondervermögen ""Versorgungsrücklage des Landes Nordrhein-Westfalen"" für Besoldungsempfänger (Kapitel 20 020 Titel 381 51)"
 6,72,429,99,164,0   ,0   ,"32.488,07   ",0   ,Personalausgaben
 6,72,547,99,164,0   ,0   ,"221.650,75   ",0   ,Sächliche Verwaltungsausgaben
 6,72,812,99,164,0   ,0   ,"0,00   ",0   ,"Erwerb von Geräten, Ausstattungsgegenständen und Maschinen sowie sonstiger beweglicher Sachen"
 6,100,119,1,133,120.000   ,120.000   ,"463.877,30   ",0   ,Vermischte Einnahmen
 6,100,129,0,165,0   ,0   ,"0,00   ",0   ,"Einnahmen aus dem Sondervermögen ""Heinrich-Hertz-Stiftung"""
-6,100,231,40,139,0   ,0   ,"1.469.983,69   ",0   ,Zweckgebundene Zuweisungen des Bundes nach Art. 143 c GG i. V. m. § 2 Abs. 2 des Gesetzes zur Entflechtung von Gemeinschaftsaufgaben und Finanzhilfen (Entflechtungsgesetz) zur Ausfinanzierung der Gemeinschaftsaufgabe Bildungsplanung und der Gemeinschaftsa
+6,100,231,40,139,0   ,0   ,"1.469.983,69   ",0   ,Zweckgebundene Zuweisungen des Bundes nach Art. 143 c GG i. V. m. § 2 Abs. 2 des Gesetzes zur Entflechtung von Gemeinschaftsaufgaben und Finanzhilfen (Entflechtungsgesetz) zur Ausfinanzierung der Gemeinschaftsaufgabe Bildungsplanung und der Gemeinschaftsaufgabe Bildungsstandards
 6,100,231,50,165,520.251.000   ,432.048.000   ,"173.648.507,00   ",0   ,Zuweisungen des Bundes im Rahmen des Hochschulpakts 2020
 6,100,331,30,139,29.758.000   ,24.900.000   ,"44.908.391,50   ",0   ,Zweckgebundene Zuweisungen des Bundes gemäß Artikel 91 b GG
 6,100,331,40,139,107.045.000   ,107.045.000   ,"107.045.000,00   ",0   ,Zweckgebundene Zuweisungen des Bundes gemäß Artikel 143 c GG i. V. m. § 2 Abs. 1 zur Entflechtung von Gemeinschaftsaufgaben und Finanzhilfen (Entflechtungsgesetz)
@@ -2910,7 +2920,7 @@
 6,131,894,10,133,1.908.800   ,1.908.800   ,"1.908.800,00   ",0   ,Zuschüsse zu den sonstigen Investitionen
 6,131,685,65,133,10.202.000   ,10.202.000   ,"11.941.300,00   ",0   ,Zuschüsse für Bauunterhaltung
 6,131,894,65,133,65.440.000   ,65.440.000   ,"63.000.000,00   ",0   ,Zuschüsse für Investitionen
-6,141,685,10,133,330.288.400   ,316.312.200   ,"314.290.475,00   ",0   ,Zuschüsse für den laufenden Betrieb
+6,141,685,10,133,332.668.400   ,316.312.200   ,"314.290.475,00   ",0   ,Zuschüsse für den laufenden Betrieb
 6,141,894,10,133,3.007.600   ,3.007.600   ,"3.007.600,00   ",0   ,Zuschüsse zu den sonstigen Investitionen
 6,141,894,30,133,2.900.000   ,8.850.000   ,"5.524.900,00   ",0   ,"Zuschüsse für Investitionen, soweit anteilig aus Zuweisungen des Bundes gemäß Art. 91 b GG oder Art. 143 c GG finanziert"
 6,151,685,10,133,269.332.500   ,259.690.800   ,"255.989.200,00   ",0   ,Zuschüsse für den laufenden Betrieb
@@ -3025,7 +3035,7 @@
 6,850,894,10,133,477.400   ,477.400   ,"477.400,00   ",0   ,Zuschüsse zu den sonstigen Investitionen
 6,850,685,65,133,903.800   ,903.800   ,"903.800,00   ",0   ,Zuschüsse für Bauunterhaltung
 6,850,894,65,133,6.000.000   ,6.000.000   ,"6.000.000,00   ",0   ,Zuschüsse für Investitionen
-6,860,381,10,891,57.000   ,57.000   ,"59.583,02   ",0   ,Verrechnung zwischen Kapiteln
+6,860,381,10,891,0   ,57.000   ,"59.583,02   ",0   ,Verrechnung zwischen Kapiteln
 6,860,422,1,139,0   ,0   ,"0,00   ",0   ,"Bezüge und Nebenleistungen der Beamtinnen und Beamten, Richterinnen und Richter"
 6,860,685,10,139,6.222.500   ,6.023.500   ,"6.042.600,00   ",0   ,Zuschüsse für den laufenden Betrieb
 6,860,894,10,139,235.000   ,335.000   ,"235.000,00   ",0   ,Zuschüsse zu den sonstigen Investitionen
@@ -3039,9 +3049,9 @@
 6,900,233,11,18,0   ,0   ,"0,00   ",0   ,Erstattung von Versorgungslasten durch den Bund/andere Länder/Gemeinden
 6,900,236,0,18,10.000   ,10.000   ,"0,00   ",0   ,Erstattungen von Versorgungsbezügen durch Sozialversicherungsträger und Bundesagentur für Arbeit
 6,900,261,10,18,50.000   ,50.000   ,"0,00   ",0   ,Erstattungen von Verwaltungsausgaben aus dem Inland
-6,900,281,10,18,5.300.600   ,5.159.800   ,"2.726.722,41   ",0   ,Sonstige Erstattungen aus dem Inland
+6,900,281,10,18,5.689.300   ,5.159.800   ,"2.726.722,41   ",0   ,Sonstige Erstattungen aus dem Inland
 6,900,281,11,18,0   ,0   ,"0,00   ",0   ,Sonstige Erstattungen der Hochschulen
-6,900,381,10,891,331.700   ,472.500   ,"404.931,98   ",0   ,Erstattungen von Versorgungsbezügen aus dem Einzelplan
+6,900,381,10,891,0   ,472.500   ,"404.931,98   ",0   ,Erstattungen von Versorgungsbezügen aus dem Einzelplan
 6,900,432,0,138,392.328.500   ,385.258.400   ,"381.569.698,27   ",0   ,Versorgungsbezüge der Beamtinnen und Beamten sowie deren Hinterbliebenen
 6,900,435,0,138,653.800   ,696.900   ,"653.754,79   ",0   ,Versorgungsbezüge der Angestellten und deren Hinterbliebenen
 6,900,439,10,138,91.624.000   ,96.874.600   ,"91.623.991,51   ",0   ,Bezüge der emeritierten Professoren/Professorinnen an Hochschulen
@@ -3230,7 +3240,7 @@
 7,40,685,66,291,0   ,0   ,"0,00   ",0   ,Zuschüsse an Träger der freien Jugendhilfe
 7,40,883,66,291,0   ,0   ,"0,00   ",0   ,Zuschüsse für Investitionen an Gemeinden
 7,40,632,69,266,0   ,0   ,"0,00   ",0   ,Sonstige Zuweisungen an andere Länder
-7,40,633,69,266,44.000.000   ,20.000.000   ,"10.994.255,11   ",0   ,Sonstige Zuweisungen der den örtlichen Trägern der Jugendhilfe durch Leistungsgewährungen nach § 89d SGB VIII entstandenen Kosten
+7,40,633,69,266,44.000.000   ,36.000.000   ,"10.994.255,11   ",0   ,Sonstige Zuweisungen der den örtlichen Trägern der Jugendhilfe durch Leistungsgewährungen nach § 89d SGB VIII entstandenen Kosten
 7,40,547,82,271,0   ,0   ,"1.042.330,23   ",4.483.000   ,Sächliche Verwaltungsausgaben
 7,40,633,82,271,0   ,0   ,"-738.344,65   ",0   ,Zuweisungen an Gemeinden
 7,40,547,83,266,0   ,0   ,"15.143,55   ",0   ,Sächliche Verwaltungsausgaben
@@ -3299,7 +3309,7 @@
 7,50,685,40,183,215.000   ,215.000   ,"204.500,00   ",0   ,Zuschuss für das Lippische Landesmuseum Detmold
 7,50,685,50,187,284.500   ,284.500   ,"284.500,00   ",0   ,Zuschuss für das Europäische Übersetzer-Kollegium Nordrhein-Westfalen e.V. in Straelen
 7,50,685,51,187,5.445.300   ,5.445.300   ,"5.445.000,00   ",0   ,"Anteiliger Zuschuss des Landes für die Stiftung ""Preußischer Kulturbesitz"""
-7,50,685,52,187,2.200.000   ,2.200.000   ,"2.065.552,00   ",0   ,Anteil des Landes an der Kulturstiftung der Länder
+7,50,685,52,187,2.100.000   ,2.200.000   ,"2.065.552,00   ",0   ,Anteil des Landes an der Kulturstiftung der Länder
 7,50,685,53,187,22.000   ,22.000   ,"19.199,06   ",0   ,Anteil des Landes Nordrhein-Westfalen an der Koordinierungsstelle Magdeburg
 7,50,685,54,187,12.000   ,12.000   ,"9.236,93   ",0   ,Mitgliedsbeiträge des Landes
 7,50,685,55,186,3.350.000   ,3.800.000   ,"3.054.813,24   ",0   ,Anteil des Landes an der Abgeltung der Bibliothekstantieme
@@ -3445,9 +3455,9 @@
 7,50,883,91,187,3.700.000   ,3.700.000   ,"2.794.950,00   ",7.500.000   ,Zuschüsse für Investitionen an Gemeinden
 7,50,893,91,187,0   ,0   ,"0,00   ",0   ,Zuschüsse für Investitionen an Sonstige im Inland
 7,50,547,97,187,0   ,0   ,"8.496,60   ",0   ,Nicht aufteilbare sächliche Verwaltungsausgaben
-7,50,633,97,187,450.000   ,0   ,"995.521,00   ",1.800.000   ,Sonstige Zuweisungen an Gemeinden und Gemeindeverbände
+7,50,633,97,187,0   ,0   ,"995.521,00   ",0   ,Sonstige Zuweisungen an Gemeinden und Gemeindeverbände
 7,50,682,97,187,9.230.000   ,9.230.000   ,"11.817.292,00   ",0   ,Zuschuss an die Kultur Ruhr GmbH zur Durchführung der RuhrTriennalen
-7,50,685,97,187,4.795.300   ,4.915.300   ,"2.499.774,32   ",2.400.000   ,Sonstige Zuschüsse für laufende Zwecke im Inland
+7,50,685,97,187,4.915.300   ,4.915.300   ,"2.499.774,32   ",2.400.000   ,Sonstige Zuschüsse für laufende Zwecke im Inland
 7,50,698,97,187,0   ,0   ,"0,00   ",0   ,Vermögensübertragung an Sonstige
 7,50,831,97,11,0   ,0   ,"0,00   ",0   ,Erwerb von Beteiligungen im Inland
 7,50,883,97,187,0   ,0   ,"0,00   ",0   ,Zuweisungen für Investitionen an Gemeinden und Gemeindeverbände
@@ -3748,8 +3758,8 @@
 9,50,546,40,411,1.000   ,1.000   ,"830,95   ",0   ,Postbargebühren Wohngeld
 9,50,547,0,14,0   ,1.481.000   ,"1.480.959,19   ",0   ,Aufwendungen für Leistungen des Landesbetriebes IT.NRW und anderer IT-Anbieter
 9,50,681,10,233,290.000.000   ,330.000.000   ,"288.042.701,39   ",0   ,Wohngeld nach dem Wohngeldgesetz
-9,50,883,70,411,7.500.000   ,7.500.000   ,"6.000.000,00   ",0   ,Zuweisung von bei Titel 331 70 vereinnahmten Bundesmitteln für investive Maßnahmen zur Umstrukturierung von Wohnquartieren
-9,50,891,70,411,89.572.000   ,89.572.000   ,"91.072.000,00   ",0   ,Zuweisung von bei Titel 331 70 vereinnahmten Bundesmitteln an die NRW.BANK
+9,50,883,70,411,48.500.000   ,7.500.000   ,"6.000.000,00   ",0   ,Zuweisung von bei Titel 331 70 vereinnahmten Bundesmitteln für investive Maßnahmen zur Umstrukturierung von Wohnquartieren
+9,50,891,70,411,48.572.000   ,89.572.000   ,"91.072.000,00   ",0   ,Zuweisung von bei Titel 331 70 vereinnahmten Bundesmitteln an die NRW.BANK
 9,50,561,71,831,0   ,0   ,"10.257,64   ",0   ,Zinsen
 9,50,581,71,831,145.000.000   ,135.000.000   ,"121.752.297,71   ",0   ,Tilgung
 9,50,631,71,411,0   ,0   ,"118.806,09   ",0   ,Erstattung von Rückflüssen aus einem gemeinsamen Strukturprogramm - Ersatzwohnraumbeschaffung - an den Bund
@@ -3769,8 +3779,8 @@
 9,100,531,63,741,0   ,0   ,"0,00   ",0   ,Veröffentlichungen
 9,100,541,63,741,0   ,0   ,"0,00   ",0   ,Veranstaltungen
 9,100,547,63,741,0   ,0   ,"0,00   ",0   ,Nicht aufteilbare sächliche Verwaltungsausgaben
-9,110,111,1,742,115.000   ,115.000   ,"113.353,04   ",0   ,Gebühren und tarifliche Entgelte
-9,110,111,10,742,0   ,0   ,"4.400,00   ",0   ,Betriebsleiterprüfungsgebühr
+9,110,111,1,719,115.000   ,115.000   ,"113.353,04   ",0   ,Gebühren und tarifliche Entgelte
+9,110,111,10,719,0   ,0   ,"4.400,00   ",0   ,Betriebsleiterprüfungsgebühr
 9,110,119,1,742,1.000.000   ,1.000.000   ,"634.108,49   ",0   ,Vermischte Einnahmen
 9,110,119,11,741,0   ,0   ,"1.670.987,53   ",0   ,"Zinsen im Zusammenhang mit Zuwendungen, die aus Bundesfinanzhilfen nach dem Entflechtungsgesetz finanziert worden sind"
 9,110,119,12,741,0   ,0   ,"705,60   ",0   ,"Zinsen im Zusammenhang mit Zuwendungen, die aus Bundesmitteln nach dem GVFG finanziert worden sind"
@@ -3779,9 +3789,9 @@
 9,110,331,12,741,129.760.500   ,129.760.500   ,"129.760.500,00   ",0   ,Bundesmittel nach dem Entflechtungsgesetz (EntflechtG) für das Landesprogramm
 9,110,526,10,741,500.000   ,500.000   ,"12.253,31   ",250.000   ,ÖPNV- Gutachten
 9,110,546,1,741,0   ,0   ,"156.756,22   ",0   ,Vermischte Ausgaben
-9,110,631,11,741,0   ,0   ,"3.700,00   ",0   ,Erstattungen an das Eisenbahn-Bundesamt
+9,110,631,11,719,0   ,0   ,"3.700,00   ",0   ,Erstattungen an das Eisenbahn-Bundesamt
 9,110,637,10,741,0   ,0   ,"10.467.000,00   ",0   ,Sonderzuweisungen an die Zweckverbände zur Sicherstellung ihrer Funktionsfähigkeit
-9,110,671,10,742,1.500.000   ,1.594.000   ,"1.000.000,00   ",0   ,Erstattung von Verwaltungsausgaben an das Eisenbahn-Bundesamt
+9,110,671,10,719,1.500.000   ,1.594.000   ,"1.000.000,00   ",0   ,Erstattung von Verwaltungsausgaben an das Eisenbahn-Bundesamt
 9,110,671,11,741,0   ,0   ,"-2.292.175,00   ",0   ,Erstattungen zum Ausgleich gemeinwirtschaftlicher Leistungen der Unternehmen des öffentlichen Nahverkehrs aus Landesmitteln
 9,110,671,12,741,0   ,0   ,"0,00   ",0   ,Erstattungen zum Ausgleich gemeinwirtschaftlicher Leistungen der Unternehmen des öffentlichen Nahverkehrs aus Regionalisierungsmitteln
 9,110,633,60,741,30.000.000   ,30.000.000   ,"22.564.640,19   ",0   ,Sonstige Zuweisungen an Gemeinden und Gemeindeverbände
@@ -3919,10 +3929,10 @@
 9,150,422,1,723,0   ,0   ,"0,00   ",0   ,"Bezüge und Nebenleistungen der Beamtinnen und Beamten, Richterinnen und Richter"
 9,150,422,2,723,0   ,0   ,"0,00   ",0   ,Bezüge und Nebenleistungen der Beamtinnen und Beamten auf Widerruf im Vorbereitungsdienst
 9,150,428,1,723,0   ,0   ,"0,00   ",0   ,Entgelte der Arbeitnehmerinnen und Arbeitnehmer
-9,150,777,11,723,87.055.500   ,85.055.500   ,"94.934.115,78   ",81.000.000   ,Erhaltungsinvestitionen an Landesstraßen
+9,150,777,11,723,90.000.000   ,85.055.500   ,"94.934.115,78   ",81.000.000   ,Erhaltungsinvestitionen an Landesstraßen
 9,150,777,12,723,7.000.000   ,7.000.000   ,"5.900.791,83   ",8.000.000   ,Um- und Ausbau von Landesstraßen bis 3 Mio. EUR Gesamtkosten je Maßnahme
 9,150,777,13,723,42.000.000   ,44.000.000   ,"46.772.811,12   ",45.000.000   ,Baumaßnahmen des Landesstraßenausbauplans
-9,150,777,14,723,9.000.000   ,9.000.000   ,"7.944.503,31   ",2.000.000   ,Radwegebau an bestehenden Landesstraßen
+9,150,777,14,723,9.400.000   ,9.000.000   ,"7.944.503,31   ",2.000.000   ,Radwegebau an bestehenden Landesstraßen
 9,150,777,15,723,1.600.000   ,1.600.000   ,"3.864.714,51   ",0   ,Erhaltung von Landesstraßen im Rahmen von ÖPP-Modellen
 9,150,821,10,723,5.727.000   ,6.725.000   ,"7.605.596,82   ",0   ,Kommunale Vorfinanzierung von Landesstraßen bis 3 Mio. EUR Gesamtkosten je Maßnahme
 9,150,989,10,891,0   ,0   ,"0,00   ",0   ,Liquiditätshilfezahlungen an den Landesbetrieb Straßenbau Nordrhein-Westfalen
@@ -3930,7 +3940,7 @@
 9,150,821,80,723,5.405.000   ,5.332.000   ,"5.104.686,03   ",0   ,Tilgung der Baukosten
 9,150,518,81,723,1.306.000   ,456.000   ,"677.376,52   ",0   ,Finanzierungskosten
 9,150,821,81,723,2.328.000   ,2.586.000   ,"2.459.115,53   ",0   ,Tilgung der Baukosten
-9,150,682,90,723,376.942.400   ,348.631.700   ,"334.276.900,00   ",0   ,Zuführung zum laufenden Betrieb des Landesbetriebes Straßenbau
+9,150,682,90,723,377.344.000   ,348.899.400   ,"334.276.900,00   ",0   ,Zuführung zum laufenden Betrieb des Landesbetriebes Straßenbau
 9,150,891,90,723,16.752.000   ,16.752.000   ,"16.752.000,00   ",0   ,Zuführung zu betrieblichen Investitionen
 9,210,119,1,19,0   ,0   ,"0,00   ",0   ,Vermischte Einnahmen
 9,210,231,0,19,0   ,26.700   ,"22.636,00   ",0   ,Zuweisungen des Bundes
@@ -3972,7 +3982,7 @@
 9,500,537,0,423,350.000   ,350.000   ,"346.501,20   ",0   ,Planung städtebaulicher Maßnahmen
 9,500,546,5,423,150.000   ,150.000   ,"138.709,55   ",0   ,Entgelte an die NRW.BANK für die finanzielle Abwicklung bzw. Durchführung von Förderprogrammen
 9,500,637,0,187,3.600.000   ,3.600.000   ,"3.600.000,00   ",0   ,Zuweisungen an den Regionalverband Ruhr für Pflege und Unterhaltung bedeutender Standorte der Route der Industriekultur
-9,500,682,0,423,0   ,0   ,"350.000,00   ",0   ,Zuschüsse für lfd. Zwecke an öffentliche Unternehmen - Flächenpool NRW -
+9,500,682,0,423,1.800.000   ,0   ,"350.000,00   ",1.800.000   ,Zuschüsse für lfd. Zwecke an öffentliche Unternehmen - Flächenpool NRW -
 9,500,682,10,423,500.000   ,1.250.000   ,"499.945,00   ",0   ,Zuschüsse für laufende Zwecke an öffentliche Unternehmen - Bahnflächenpool NRW -
 9,500,682,20,431,0   ,0   ,"0,00   ",0   ,Zuschüsse für laufende Zwecke an öffentliche Unternehmen - EGZ -
 9,500,682,30,431,150.000   ,0   ,"0,00   ",0   ,Zuschüsse für laufende Zwecke an öffentliche Unternehmen - SEV -
@@ -4009,7 +4019,7 @@
 9,510,526,1,195,0   ,1.500   ,"2.926,80   ",0   ,Sachverständige
 9,510,539,0,195,10.000   ,10.000   ,"9.852,30   ",0   ,Staatspreis für die Denkmalpflege in Nordrhein-Westfalen
 9,510,633,0,195,0   ,0   ,"0,00   ",300.000   ,Zuschuss zur Durchführung der Archäologischen Landesausstellung
-9,510,633,10,195,1.098.000   ,0   ,"0,00   ",1.000.000   ,Sonstige Zuweisungen für bodendenkmalpflegerische Zwecke an Gemeinden und Gemeindeverbände
+9,510,633,10,195,2.000.000   ,0   ,"0,00   ",1.000.000   ,Sonstige Zuweisungen für bodendenkmalpflegerische Zwecke an Gemeinden und Gemeindeverbände
 9,510,684,0,195,2.850.000   ,2.850.000   ,"3.396.416,03   ",0   ,Zuschüsse an die Dombauvereine NRW aus den Einnahmen aus Lotterieerträgen
 9,510,685,0,195,23.500   ,23.500   ,"23.500,00   ",0   ,Mitgliedsbeitrag des Landes Nordrhein-Westfalen zur Deutschen Limes-Kommission
 9,510,685,10,195,23.000   ,23.000   ,"21.220,00   ",0   ,Mitgliedsbeitrag des Landes Nordrhein-Westfalen zur Finanzierung der Geschäftsstelle des Deutschen Nationalkomitees für Denkmalschutz
@@ -4017,7 +4027,7 @@
 9,510,685,40,195,0   ,0   ,"200.000,00   ",0   ,Anteil des Landes zur Stiftung Preußen-Museum in Minden und Wesel
 9,510,893,10,195,1.300.000   ,767.000   ,"767.000,00   ",0   ,Zuschuss zu den Restaurierungsarbeiten an Kirchenbauten von besonderer Bedeutung
 9,510,883,60,195,951.000   ,7.027.000   ,"6.619.032,99   ",0   ,Zuweisungen zur Förderung bau- und bodendenkmalpflegerischer Maßnahmen der Gemeinden und Gemeindeverbände
-9,510,893,60,195,771.000   ,2.326.000   ,"5.624.627,42   ",0   ,Zuschüsse zur Förderung privater und kirchlicher denkmalpflegerischer Maßnahmen
+9,510,893,60,195,1.949.000   ,2.326.000   ,"5.624.627,42   ",0   ,Zuschüsse zur Förderung privater und kirchlicher denkmalpflegerischer Maßnahmen
 9,530,111,1,188,275.000   ,260.000   ,"336.222,60   ",0   ,Gebühren und tarifliche Entgelte
 9,530,119,1,188,10.000   ,4.000   ,"20.561,44   ",0   ,Vermischte Einnahmen
 9,530,119,2,188,39.000   ,35.000   ,"51.388,37   ",0   ,Einnahmen aus Veröffentlichungen
@@ -4092,7 +4102,7 @@
 10,10,119,3,11,5.000   ,5.000   ,"0,00   ",0   ,Einnahmen aus Nebentätigkeiten
 10,10,124,1,11,25.100   ,26.000   ,"31.474,82   ",0   ,Mieten und Pachten
 10,10,132,1,11,0   ,0   ,"0,00   ",0   ,Erlöse aus der Veräußerung von beweglichen Sachen
-10,10,422,1,11,16.772.400   ,16.665.900   ,"11.725.442,56   ",0   ,"Bezüge und Nebenleistungen der Beamtinnen und Beamten, Richterinnen und Richter"
+10,10,422,1,11,16.822.900   ,16.665.900   ,"11.725.442,56   ",0   ,"Bezüge und Nebenleistungen der Beamtinnen und Beamten, Richterinnen und Richter"
 10,10,427,1,11,90.000   ,90.000   ,"1.281.880,40   ",0   ,Entgelte für Aushilfen
 10,10,427,10,11,0   ,3.000   ,"0,00   ",0   ,"Beschäftigungsentgelte, Aufwendungen für nebenamtlich und nebenberuflich Tätige"
 10,10,428,1,11,8.408.300   ,7.917.500   ,"11.150.255,06   ",0   ,Entgelte der Arbeitnehmerinnen und Arbeitnehmer
@@ -4186,7 +4196,7 @@
 10,20,519,0,811,200.000   ,200.000   ,"0,00   ",0   ,Zur Verstärkung der in den Kapiteln vorgesehenen Ansätze bei den Titeln 519 03
 10,20,525,1,332,779.300   ,559.300   ,"431.281,25   ",450.000   ,Aus- (und Fort)bildung der Bediensteten
 10,20,525,2,332,5.000   ,5.000   ,"1.043,84   ",0   ,Lehr- und Lernmittel
-10,20,525,11,511,44.000   ,44.000   ,"105.577,65   ",0   ,"Ausbildung der Agrarreferendarinnen, Agrarreferendare und der Referendarinnen, Referendare der Landespflege"
+10,20,525,11,511,44.000   ,120.000   ,"105.577,65   ",0   ,"Ausbildung der Agrarreferendarinnen, Agrarreferendare und der Referendarinnen, Referendare der Landespflege"
 10,20,526,1,332,25.000   ,25.000   ,"77,53   ",0   ,Sachverständige
 10,20,526,2,332,15.000   ,15.000   ,"0,00   ",0   ,Gerichts- und ähnliche Kosten
 10,20,529,10,332,5.000   ,5.000   ,"1.956,69   ",0   ,Verfügungsmittel
@@ -4258,7 +4268,7 @@
 10,20,686,63,532,0   ,0   ,"0,00   ",0   ,Sonstige Zuschüsse für laufende Zwecke im Inland
 10,20,537,65,523,0   ,0   ,"754,35   ",0   ,Versuche und Untersuchungen
 10,20,686,65,523,120.000   ,120.000   ,"146.000,00   ",100.000   ,Sonstige Zuschüsse für laufende Zwecke im Inland
-10,20,883,65,523,62.100   ,150.000   ,"251.590,09   ",0   ,"Zuweisungen (an Gemeinden, GV)"
+10,20,883,65,523,150.000   ,150.000   ,"251.590,09   ",0   ,"Zuweisungen (an Gemeinden, GV)"
 10,20,893,65,523,100.000   ,180.000   ,"0,00   ",150.000   ,Zuschüsse (an Sonstige)
 10,20,427,66,332,0   ,0   ,"56.476,00   ",0   ,"Kosten für wissenschaftliche Sachverständige, Honorarkräfte und Aushilfen"
 10,20,511,66,332,0   ,0   ,"0,00   ",0   ,"Geschäftsbedarf, Geräte, Ausstattungs-, Ausrüstungs- und sonstige Gebrauchsgegenstände"
@@ -4273,6 +4283,7 @@
 10,20,892,66,332,0   ,0   ,"0,00   ",0   ,Zuschüsse für Investitionen an Private
 10,20,893,66,332,0   ,0   ,"0,00   ",0   ,Zuschüsse für Investitionen an Sonstige
 10,20,427,68,642,0   ,0   ,"98.027,00   ",0   ,"Kosten für wissenschaftliche Sachverständige, Honorarkräfte und Aushilfen"
+10,20,514,68,642,0   ,0   ,"0,00   ",0   ,"Haltung von Fahrzeugen, Verbrauchsmittel"
 10,20,526,68,642,0   ,0   ,"0,00   ",0   ,Erstellung von Gutachten und wissenschaftlichen Untersuchungen
 10,20,531,68,642,0   ,0   ,"0,00   ",0   ,Öffentlichkeitsarbeit
 10,20,537,68,642,3.706.900   ,3.500.000   ,"5.551.428,00   ",2.110.000   ,Effizienz-Agentur NRW (EFA) sowie Untersuchungen und Gutachten u. A.
@@ -4285,6 +4296,7 @@
 10,20,684,68,642,0   ,0   ,"0,00   ",0   ,Zuschüsse für laufende Zwecke an soziale oder ähnliche Einrichtungen
 10,20,686,68,642,0   ,0   ,"0,00   ",0   ,Sonstige Zuschüsse für laufende Zwecke im Inland
 10,20,687,68,642,0   ,0   ,"0,00   ",0   ,Zuschüsse für laufende Zwecke im Ausland
+10,20,811,68,642,0   ,0   ,"0,00   ",0   ,Erwerb von Fahrzeugen
 10,20,812,68,642,0   ,0   ,"0,00   ",0   ,Erwerb von Geräten und sonstigen beweglichen Sachen
 10,20,883,68,642,0   ,0   ,"0,00   ",0   ,Zuweisungen für Investitionen an Gemeinden und Gemeindeverbände
 10,20,892,68,642,0   ,0   ,"0,00   ",0   ,Zuschüsse für Investitionen an private Unternehmen
@@ -4489,7 +4501,7 @@
 10,50,537,13,332,720.000   ,720.000   ,"649.452,59   ",996.000   ,"Untersuchungen, Versuche und Vorplanungen"
 10,50,543,0,645,130.000   ,130.000   ,"94.966,33   ",0   ,Verwendung der von Dritten zur Durchführung des gewässerkundlichen Dienstes zur Verfügung gestellten Mittel
 10,50,633,0,332,0   ,0   ,"0,00   ",0   ,Sonstige Zuweisungen an Gemeinden und Gemeindeverbände
-10,50,685,10,332,78.600   ,60.000   ,"54.320,00   ",0   ,"Zuschuss an das Institut für Bautechnik (DIBt), Berlin"
+10,50,685,10,332,78.600   ,105.000   ,"54.320,00   ",0   ,"Zuschuss an das Institut für Bautechnik (DIBt), Berlin"
 10,50,685,20,645,370.000   ,370.000   ,"315.399,98   ",0   ,"Zuschuss an das ""Bildungszentrum für die Entsorgungs- und Wasserwirtschaft GmbH"" (BEW), Duisburg und Essen"
 10,50,883,0,332,380.000   ,380.000   ,"286.000,00   ",250.000   ,Zuweisungen für Maßnahmen des Bodenschutzes
 10,50,887,0,332,7.000.000   ,7.000.000   ,"0,00   ",0   ,Zuweisungen an Zweckverbände zur Altlastensanierung
@@ -4747,7 +4759,7 @@
 10,90,633,60,522,285.000   ,285.000   ,"74.202,72   ",100.000   ,"Sonstige Zuweisungen (an Gemeinden, GV)"
 10,90,637,60,522,255.000   ,255.000   ,"0,00   ",100.000   ,Sonstige Zuweisungen (an Zweckverbände)
 10,90,681,60,522,0   ,0   ,"0,00   ",0   ,Entschädigungen aufgrund des Landesforstgesetzes und sonstige Leistungen
-10,90,683,60,522,21.431.000   ,27.170.000   ,"19.862.895,85   ",71.379.000   ,Zuschüsse (an private Unternehmen)
+10,90,683,60,522,21.431.000   ,27.125.000   ,"19.862.895,85   ",71.379.000   ,Zuschüsse (an private Unternehmen)
 10,90,684,60,522,0   ,0   ,"0,00   ",0   ,Zuschüsse (an soziale oder ähnliche Einrichtungen)
 10,90,686,60,522,0   ,0   ,"0,00   ",0   ,Zuschüsse (an Sonstige)
 10,90,821,60,522,0   ,0   ,"121.748,34   ",0   ,Erwerb von Grundstücken
@@ -4782,9 +4794,9 @@
 10,90,883,69,332,0   ,0   ,"0,00   ",0   ,"Zuweisungen (an Gemeinden, GV)"
 10,90,893,69,332,0   ,0   ,"0,00   ",0   ,Zuschüsse (an Sonstige)
 10,90,531,70,522,0   ,0   ,"0,00   ",0   ,Öffentlichkeitsarbeit
-10,90,686,70,522,3.000.000   ,2.700.000   ,"2.088.766,98   ",500.000   ,Zuschüsse (an Sonstige)
+10,90,686,70,522,3.000.000   ,2.700.000   ,"2.088.766,98   ",3.000.000   ,Zuschüsse (an Sonstige)
 10,90,531,71,522,0   ,0   ,"0,00   ",0   ,Öffentlichkeitsarbeit
-10,90,686,71,522,3.000.000   ,3.000.000   ,"2.088.766,76   ",500.000   ,Zuschüsse (an Sonstige)
+10,90,686,71,522,3.000.000   ,3.000.000   ,"2.088.766,76   ",3.000.000   ,Zuschüsse (an Sonstige)
 10,90,633,72,522,0   ,0   ,"0,00   ",0   ,"Zuweisungen (an Gemeinden, GV)"
 10,90,883,72,522,0   ,0   ,"0,00   ",0   ,"Zuweisungen (an Gemeinden,GV)"
 10,90,537,73,422,0   ,0   ,"0,00   ",0   ,Untersuchungsvorhaben
@@ -4965,7 +4977,7 @@
 10,400,271,73,512,0   ,0   ,"0,00   ",0   ,Erstattungen von der EU
 10,400,282,73,512,3.600   ,3.600   ,"0,00   ",0   ,Sonstige Zuschüsse aus dem Inland
 10,400,287,73,512,0   ,0   ,"0,00   ",0   ,Sonstige Zuschüsse aus dem Ausland
-10,400,422,1,331,12.589.100   ,12.267.000   ,"11.666.956,48   ",0   ,"Bezüge und Nebenleistungen der Beamtinnen und Beamten, Richterinnen und Richter"
+10,400,422,1,331,12.538.600   ,12.267.000   ,"11.666.956,48   ",0   ,"Bezüge und Nebenleistungen der Beamtinnen und Beamten, Richterinnen und Richter"
 10,400,422,2,331,849.400   ,822.100   ,"452.290,65   ",0   ,Bezüge und Nebenleistungen der Beamtinnen und Beamten auf Widerruf im Vorbereitungsdienst
 10,400,427,1,331,130.500   ,130.500   ,"799.113,03   ",0   ,Entgelte für Aushilfen
 10,400,427,10,331,45.000   ,45.000   ,"41.385,02   ",0   ,Prüfungsvergütungen
@@ -5092,7 +5104,7 @@
 10,410,428,1,314,4.274.900   ,4.054.600   ,"9.222.880,38   ",0   ,Entgelte der Arbeitnehmerinnen und Arbeitnehmer
 10,410,429,20,314,0   ,27.000   ,"0,00   ",0   ,Kostenbeitrag nach § 17 Bundesfreiwilligendienstgesetz
 10,410,453,1,314,0   ,0   ,"0,00   ",0   ,Trennungsentschädigung und Umzugskostenvergütung
-10,410,511,1,314,210.000   ,210.000   ,"88.926,49   ",0   ,"Geschäftsbedarf und Kommunikation sowie Geräte, Ausstattungs- und Ausrüstungsgegenstände, sonstige Gebrauchsgegenstände"
+10,410,511,1,314,210.000   ,134.000   ,"88.926,49   ",0   ,"Geschäftsbedarf und Kommunikation sowie Geräte, Ausstattungs- und Ausrüstungsgegenstände, sonstige Gebrauchsgegenstände"
 10,410,511,11,314,315.100   ,315.100   ,"270.478,74   ",0   ,"Geräte, Ausstattungsgegenstände und Maschinen für fachliche Zwecke"
 10,410,514,1,314,10.000   ,10.000   ,"16.279,24   ",0   ,Haltung von Dienstfahrzeugen
 10,410,514,2,314,27.400   ,27.400   ,"13.259,92   ",0   ,Dienst- und Schutzkleidung
@@ -5252,7 +5264,7 @@
 11,25,633,20,282,1.350.000.000   ,800.000.000   ,"490.733.206,65   ",0   ,Weiterleitung der Beteiligung des Bundes an den Leistungen der Grundsicherung im Alter und bei Erwerbsminderung nach dem SGB XII an Gemeinden und Gemeindeverbände
 11,25,671,20,252,0   ,0   ,"0,00   ",0   ,Rückzahlung der Beteiligung des Bundes an den Leistungen für Unterkunft und Heizung nach dem SGB II
 11,25,671,30,282,0   ,0   ,"0,00   ",0   ,Rückzahlung der Beteiligung des Bundes an den Leistungen der Grundsicherung im Alter und bei Erwerbsminderung nach dem SGB XII
-11,29,119,1,253,400.000   ,850.000   ,"391.265,03   ",0   ,Vermischte Einnahmen
+11,29,119,1,253,400.000   ,2.360.000   ,"391.265,03   ",0   ,Vermischte Einnahmen
 11,29,547,0,253,181.200   ,181.200   ,"255.126,40   ",100.000   ,Sächliche Verwaltungsausgaben
 11,29,632,20,313,82.400   ,82.400   ,"73.671,71   ",0   ,Landesanteil an der Finanzierung der Gemeinsamen Deutschen Arbeitsschutzstrategie (GDA)
 11,29,633,10,253,30.000   ,30.000   ,"30.000,00   ",0   ,Zuweisungen an die Landschaftsverbände zur Erstattung von Kosten für die Durchführung von Prüfungen
@@ -5262,7 +5274,7 @@
 11,29,526,60,155,0   ,0   ,"0,00   ",0   ,Sachverständige
 11,29,686,60,155,0   ,0   ,"0,00   ",0   ,Sonstige Zuschüsse für laufende Zwecke im Inland
 11,29,883,60,155,0   ,0   ,"0,00   ",0   ,Zuweisungen für Investitionen an Gemeinden und Gemeindeverbände
-11,29,893,60,155,2.000.000   ,2.000.000   ,"2.390.311,73   ",1.300.000   ,Zuschüsse für Investitionen an Sonstige im Inland
+11,29,893,60,155,2.000.000   ,2.000.000   ,"2.390.311,73   ",2.300.000   ,Zuschüsse für Investitionen an Sonstige im Inland
 11,32,119,1,253,0   ,0   ,"0,00   ",0   ,Vermischte Einnahmen
 11,32,119,15,253,0   ,0   ,"328.642,30   ",0   ,Einnahmen aus Rückflüssen abgelaufener Förderphasen (EU-Anteil)
 11,32,119,16,253,0   ,0   ,"57.268,93   ",0   ,Einnahmen aus Rückflüssen abgelaufener Förderphasen (Landesanteil)
@@ -5381,12 +5393,12 @@
 11,50,547,80,235,0   ,0   ,"168.806,53   ",0   ,Sächliche Verwaltungsausgaben
 11,50,633,80,235,0   ,0   ,"5.000,00   ",0   ,Zuweisungen an Gemeinden (GV)
 11,50,671,80,236,0   ,0   ,"149.798,98   ",0   ,Erstattung von Verwaltungskosten an die Landschaftsverbände
-11,50,684,80,235,2.829.500   ,2.829.500   ,"2.738.442,17   ",2.950.000   ,Zuschüsse an freie Träger
+11,50,684,80,235,3.329.500   ,2.829.500   ,"2.738.442,17   ",2.950.000   ,Zuschüsse an freie Träger
 11,50,686,80,291,1.850.000   ,1.850.000   ,"1.026.120,00   ",0   ,Förderung von Querschnittsaufgaben nach § 1908f BGB sowie Maßnahmen zur Förderung der Inklusion
 11,50,893,80,235,0   ,0   ,"170.000,00   ",0   ,Zuschüsse an freie gemeinnützige Träger für Baumaßnahmen und Beschaffung von Einrichtungsgegenständen für soziale Einrichtungen und sonstige soziale Zwecke.
 11,50,547,85,235,0   ,0   ,"0,00   ",0   ,Sächliche Verwaltungsausgaben
 11,50,883,85,235,0   ,0   ,"0,00   ",0   ,Zuweisungen an kommunale Träger für Baumaßnahmen und zum Erwerb von Einrichtungen sowie für die Beschaffung von Einrichtungsgegenständen
-11,50,893,85,235,5.486.600   ,5.566.600   ,"4.007.777,00   ",2.864.000   ,Zuschüsse an Sonstige für Baumaßnahmen und zum Erwerb von Einrichtungen sowie für die Beschaffung von Einrichtungsgegenständen
+11,50,893,85,235,4.986.600   ,5.566.600   ,"4.007.777,00   ",5.052.000   ,Zuschüsse an Sonstige für Baumaßnahmen und zum Erwerb von Einrichtungen sowie für die Beschaffung von Einrichtungsgegenständen
 11,50,547,86,235,0   ,0   ,"1.532,78   ",0   ,Sächliche Verwaltungsausgaben
 11,50,686,86,235,0   ,0   ,"0,00   ",0   ,Zuschüsse an Sonstige für laufende Zwecke
 11,50,883,86,235,0   ,0   ,"0,00   ",0   ,Zuweisungen für Investitionen an Gemeinden und Gemeindeverbände
@@ -5406,7 +5418,7 @@
 11,60,546,68,246,30.000   ,30.000   ,"9.491,30   ",0   ,"Beiräte für Vertriebenen-, Flüchtlings- und Spätaussiedlerfragen (Landesbeirat/Bezirksbeirat)"
 11,60,547,68,249,170.000   ,170.000   ,"152.328,54   ",0   ,Sonstige sächliche Verwaltungsausgaben
 11,60,633,68,249,11.180.000   ,0   ,"3.492.934,43   ",0   ,Zuweisungen an Gemeinden
-11,60,686,68,249,10.702.700   ,21.882.700   ,"9.254.741,62   ",2.190.000   ,Zuschüsse an Sonstige
+11,60,686,68,249,10.264.100   ,21.882.700   ,"9.254.741,62   ",2.190.000   ,Zuschüsse an Sonstige
 11,310,119,1,219,2.000   ,2.000   ,"3,32   ",0   ,Vermischte Einnahmen
 11,310,428,1,219,32.686.300   ,32.643.900   ,"32.685.432,04   ",0   ,Entgelte der Arbeitnehmerinnen und Arbeitnehmer
 11,310,545,0,219,2.500.000   ,2.500.000   ,"2.524.275,76   ",0   ,Sonstige Zahlungen an den BLB insbesondere Wertersatz
@@ -5422,16 +5434,16 @@
 11,320,111,10,291,16.500.000   ,13.800.000   ,"13.878.090,19   ",0   ,Einnahmen aus der Eigenbeteiligung der freifahrtberechtigen Schwerbehinderten an den Kosten der unentgeltlichen Beförderung
 11,320,119,1,219,4.500   ,1.000   ,"35.728,22   ",0   ,Vermischte Einnahmen
 11,320,231,20,291,15.400.000   ,14.850.000   ,"14.924.874,73   ",0   ,Erstattung des Bundes an den Aufwendungen nach dem Gesetz über die Entschädigung für Opfer von Gewalttaten (Opferentschädigungsgesetz - OEG)
-11,320,231,30,249,5.189.600   ,5.511.000   ,"4.950.356,76   ",0   ,Erstattung des Bundes an den Aufwendungen für die Rehabilitierung und Entschädigung von Opfern im Beitrittsgebiet nach den Rehabilitierungsgesetzen (RehaG`e)
+11,320,231,30,244,5.189.600   ,5.511.000   ,"4.950.356,76   ",0   ,Erstattung des Bundes an den Aufwendungen für die Rehabilitierung und Entschädigung von Opfern im Beitrittsgebiet nach den Rehabilitierungsgesetzen (RehaG`e)
 11,320,281,10,223,1.093.500   ,1.062.500   ,"1.093.481,26   ",0   ,Erstattungen von Beiträgen an die Unfallkasse NRW
 11,320,281,50,249,1.600.000   ,1.900.000   ,"1.587.023,83   ",0   ,Sonstige Erstattungen an den Aufwendungen nach dem Gesetz über die Entschädigung für Opfer von Gewalttaten (Opferentschädigungsgesetz - OEG)
 11,320,526,20,219,65.200   ,65.200   ,"60.439,00   ",0   ,Beweiserhebung und Kostenerstattungen in Versorgungs- und Schwerbehindertenangelegenheiten
 11,320,636,10,241,1.050.000   ,1.350.000   ,"652.816,55   ",0   ,Erstattung von Verwaltungskosten nach § 20 Bundesversorgungsgesetz (BVG)
-11,320,636,20,223,29.500.000   ,26.000.000   ,"24.347.485,44   ",0   ,Unfallkasse NRW
+11,320,636,20,223,29.500.000   ,27.510.000   ,"24.347.485,44   ",0   ,Unfallkasse NRW
 11,320,636,30,229,50.000   ,50.000   ,"22.615,00   ",0   ,Verwaltungskostenerstattung an die Landwirtschaftlichen Alterskassen
 11,320,681,10,291,21.500.000   ,22.000.000   ,"20.741.030,54   ",0   ,Entschädigungen nach dem Infektionsschutzgesetz (IfSG)
 11,320,681,30,291,70.000.000   ,67.500.000   ,"64.597.862,10   ",0   ,Aufwendungen nach dem Gesetz über die Entschädigung für Opfer von Gewalttaten (Opferentschädigungsgesetz - OEG)
-11,320,681,40,249,8.000.000   ,8.500.000   ,"7.604.388,97   ",0   ,Aufwendungen für die Rehabilitierung und Entschädigung von Opfern im Beitrittsgebiet nach den Rehabilitierungsgesetzen (RehaG`e)
+11,320,681,40,244,8.000.000   ,8.500.000   ,"7.604.388,97   ",0   ,Aufwendungen für die Rehabilitierung und Entschädigung von Opfern im Beitrittsgebiet nach den Rehabilitierungsgesetzen (RehaG`e)
 11,320,526,70,291,0   ,0   ,"157.075,80   ",0   ,Kosten für Sachverständige und Untersuchungsvorhaben
 11,320,631,70,291,4.455.000   ,4.500.000   ,"4.479.876,69   ",0   ,Abführung des Bundesanteils an der Eigenbeteiligung der freifahrtberechtigten schwerbehinderten Menschen
 11,320,682,70,291,105.000.000   ,103.600.000   ,"93.324.030,08   ",0   ,Erstattung der Fahrgeldausfälle an Nahverkehrsunternehmen
@@ -5501,10 +5513,10 @@
 12,10,538,81,11,83.000   ,83.000   ,"77.622,88   ",0   ,Ausgaben für die Datenverarbeitung
 12,10,547,81,14,45.900   ,45.900   ,"92.100,00   ",0   ,Aufwendungen für Leistungen des IT-NRW
 12,10,812,81,11,400.000   ,430.000   ,"10.214,11   ",50.000   ,"Erwerb von Geräten, Ausstattungs- und Ausrüstungsgegenständen für die Datenverarbeitung, Software sowie Fernmeldeanlagen"
-12,20,119,1,841,49.600   ,450.000   ,"11.501,53   ",0   ,Vermischte Einnahmen
+12,20,119,1,841,11.600   ,450.000   ,"11.501,53   ",0   ,Vermischte Einnahmen
 12,20,119,2,13,0   ,0   ,"3.082,83   ",0   ,Einnahmen aus Veröffentlichungen
 12,20,119,4,11,0   ,0   ,"162.399,02   ",0   ,Einnahmen aus dem Verkauf des Firmentickets von Verkehrsunternehmen an Landesbedienstete
-12,20,124,1,62,139.900   ,20.000   ,"12.072,00   ",0   ,Mieten und Pachten
+12,20,124,1,62,0   ,12.400   ,"12.072,00   ",0   ,Mieten und Pachten
 12,20,132,1,61,0   ,0   ,"0,00   ",0   ,Erlöse aus der Veräußerung von beweglichen Sachen
 12,20,235,1,253,0   ,0   ,"0,00   ",0   ,Zuweisungen der Bundesagentur für Arbeit im Rahmen von Maßnahmen zur Arbeitsbeschaffung
 12,20,236,10,253,0   ,0   ,"0,00   ",0   ,Erstattungen von Sozialversicherungsträgern sowie von der Bundesagentur für Arbeit
@@ -5525,43 +5537,40 @@
 12,20,441,5,841,0   ,0   ,"0,00   ",0   ,Zuschüsse zur Krankenversicherung bei Inanspruchnahme von Pflegezeit im Bereich pflegebedürftiger Beamtinnen und Beamter bzw. deren Angehörigen
 12,20,443,1,841,39.700   ,134.300   ,"36.520,02   ",0   ,Fürsorgeleistungen
 12,20,462,16,881,0   ,0   ,"0,00   ",0   ,"Minderausgaben für Personalausgaben wegen pauschaler Stelleneinsparung von 1,5 % ab 2010"
-12,20,517,1,62,100.000   ,100.000   ,"0,00   ",0   ,"Bewirtschaftung der Grundstücke, Gebäude und Räume"
-12,20,518,1,62,834.000   ,834.000   ,"1.249.360,92   ",0   ,"Mieten und Pachten für Grundstücke, Gebäude und Räume"
+12,20,517,1,62,0   ,0   ,"0,00   ",0   ,"Bewirtschaftung der Grundstücke, Gebäude und Räume"
+12,20,518,1,62,0   ,834.000   ,"1.249.360,92   ",0   ,"Mieten und Pachten für Grundstücke, Gebäude und Räume"
 12,20,519,11,61,1.000.000   ,1.000.000   ,"0,00   ",0   ,Zur Verstärkung der in den Kapiteln vorgesehenen Ansätze bei den Titeln 519 03
-12,20,529,10,11,5.900   ,5.900   ,"2.090,98   ",0   ,Aufwand der Personalvertretungen
-12,20,529,20,11,1.900   ,1.900   ,"1.035,23   ",0   ,Zur Verfügung der Dienststellenleiter
+12,20,529,10,11,6.000   ,5.900   ,"2.090,98   ",0   ,Aufwand der Personalvertretungen
+12,20,529,20,11,2.000   ,1.900   ,"1.035,23   ",0   ,Zur Verfügung der Dienststellenleiter
 12,20,529,30,11,500   ,500   ,"153,76   ",0   ,Aufwandsdeckungsmittel für die Schwerbehindertenvertretungen
 12,20,531,11,11,38.500   ,38.500   ,"34.170,78   ",0   ,Öffentlichkeitsarbeit
 12,20,531,12,13,64.200   ,64.200   ,"59.189,49   ",0   ,Veröffentlichungen und Dokumentation
 12,20,545,10,314,276.900   ,276.900   ,"0,00   ",0   ,Zur Verstärkung der in den Kapiteln vorgesehenen Ansätze bei den Titeln 545 10
 12,20,545,30,314,100.000   ,100.000   ,"8.128,80   ",0   ,Ausgaben für Soziale Ansprechpartner
 12,20,546,4,11,0   ,0   ,"162.423,99   ",0   ,Ausgaben für den Kauf des Firmentickets von Verkehrsunternehmen
-12,20,546,10,61,125.000   ,79.300   ,"0,00   ",0   ,Nachwuchswerbung (einschließlich Zeitungsanzeigen)
+12,20,546,10,61,225.000   ,79.300   ,"79.066,23   ",0   ,Nachwuchswerbung (einschließlich Zeitungsanzeigen)
 12,20,547,59,861,0   ,0   ,"12.784.800,00   ",0   ,Ausgaben im Rahmen der Regelungen des § 9 Haushaltsgesetz
 12,20,632,0,11,200.000   ,200.000   ,"155.204,87   ",0   ,Zuweisungen von Verwaltungsausgaben an Länder
 12,20,681,0,253,0   ,0   ,"0,00   ",0   ,Mehraufwandsentschädigung auf der Grundlage des Zweiten Buches des Sozialgesetzbuches (§ 16 Abs. 3 Satz 2 SGB II)
 12,20,972,10,881,-5.897.700   ,-18.923.800   ,"0,00   ",0   ,Minderausgaben zum anteiligen Ausgleich des Haushaltsplans
-12,20,422,64,62,786.000   ,872.700   ,"0,00   ",0   ,"Bezüge und Nebenleistungen der Beamtinnen und Beamten, Richter und Richterinnen"
-12,20,525,64,62,250.000   ,250.000   ,"0,00   ",0   ,Mobilitäts- und Qualifizierungsmaßnahmen
-12,20,547,64,62,0   ,0   ,"0,00   ",0   ,Sonstige sächliche Verwaltungsausgaben
-12,20,422,70,62,1.072.100   ,1.052.600   ,"366.115,35   ",0   ,"Bezüge und Nebenleistungen der Beamtinnen und Beamten, Richterinnen und Richter"
-12,20,427,70,62,25.000   ,25.000   ,"0,00   ",0   ,Entgelte für Aushilfen
-12,20,428,70,62,563.200   ,629.000   ,"278.671,50   ",0   ,Entgelte der Arbeitnehmerinnen und Arbeitnehmer
-12,20,453,70,62,10.000   ,10.000   ,"0,00   ",0   ,Trennungsentschädigung und Umzugskostenvergütung
-12,20,517,70,62,125.000   ,125.000   ,"0,00   ",0   ,"Bewirtschaftung der Grundstücke, Gebäude und Räume"
-12,20,519,70,62,5.000   ,5.000   ,"279,65   ",0   ,"Schönheitsreparaturen und Instandhaltung an angemieteten Grundstücken, Gebäuden und Räumen"
-12,20,531,70,62,1.000   ,1.000   ,"0,00   ",0   ,"Öffentlichkeitsarbeit, Veröffentlichungen und Dokumentation"
+12,20,422,70,62,0   ,552.600   ,"366.115,35   ",0   ,"Bezüge und Nebenleistungen der Beamtinnen und Beamten, Richterinnen und Richter"
+12,20,427,70,62,0   ,0   ,"0,00   ",0   ,Entgelte für Aushilfen
+12,20,428,70,62,0   ,379.000   ,"278.671,50   ",0   ,Entgelte der Arbeitnehmerinnen und Arbeitnehmer
+12,20,453,70,62,0   ,0   ,"0,00   ",0   ,Trennungsentschädigung und Umzugskostenvergütung
+12,20,517,70,62,0   ,0   ,"0,00   ",0   ,"Bewirtschaftung der Grundstücke, Gebäude und Räume"
+12,20,519,70,62,0   ,0   ,"279,65   ",0   ,"Schönheitsreparaturen und Instandhaltung an angemieteten Grundstücken, Gebäuden und Räumen"
+12,20,531,70,62,0   ,0   ,"0,00   ",0   ,"Öffentlichkeitsarbeit, Veröffentlichungen und Dokumentation"
 12,20,545,70,314,0   ,0   ,"0,00   ",0   ,Ausgaben für Arbeitsschutz und Gesundheitsmanagement
-12,20,547,70,62,656.000   ,656.000   ,"116.229,15   ",0   ,Nicht aufteilbare sächliche Verwaltungsausgaben für die Datenverarbeitung
-12,20,811,70,62,15.000   ,15.000   ,"0,00   ",0   ,Erwerb von Dienstkraftfahrzeugen
-12,20,812,70,62,110.000   ,110.000   ,"0,00   ",0   ,Erwerb von Geräten und sonstigen beweglichen Sachen
+12,20,547,70,62,0   ,70.000   ,"116.229,15   ",0   ,Nicht aufteilbare sächliche Verwaltungsausgaben für die Datenverarbeitung
+12,20,811,70,62,0   ,0   ,"0,00   ",0   ,Erwerb von Dienstkraftfahrzeugen
+12,20,812,70,62,0   ,0   ,"0,00   ",0   ,Erwerb von Geräten und sonstigen beweglichen Sachen
 12,20,422,83,11,3.872.700   ,3.608.800   ,"2.347.191,00   ",0   ,Bezüge und Nebenleistungen der Beamtinnen und Beamten
 12,20,427,83,11,0   ,0   ,"0,00   ",0   ,Vergütungen und Löhne für Aushilfen
 12,20,428,83,11,3.459.800   ,2.741.000   ,"2.467.241,91   ",0   ,Entgelte der Arbeitnehmerinnen und Arbeitnehmer
 12,20,453,83,11,15.000   ,0   ,"4.423,20   ",0   ,Trennungsentschädigung und Umzugskostenvergütung
 12,20,511,83,11,200.000   ,200.000   ,"58.226,56   ",0   ,"Geschäftsbedarf und Kommunikation sowie Geräte, Ausstattungs- und Ausrüstungsgegenstände, sonstige Gebrauchsgegenstände"
-12,20,517,83,62,300.000   ,300.000   ,"203.491,60   ",0   ,"Bewirtschaftung der Grundstücke, Gebäude und Räume"
-12,20,518,83,62,416.000   ,416.000   ,"0,00   ",0   ,"Mieten und Pachten für Grundstücke, Gebäude und Räume"
+12,20,517,83,62,100.000   ,190.000   ,"203.491,60   ",0   ,"Bewirtschaftung der Grundstücke, Gebäude und Räume"
+12,20,518,83,62,0   ,51.200   ,"0,00   ",0   ,"Mieten und Pachten für Grundstücke, Gebäude und Räume"
 12,20,525,83,11,360.000   ,360.000   ,"58.337,51   ",0   ,Aus- (und Fort)bildung
 12,20,526,83,11,1.365.000   ,1.365.000   ,"762.963,85   ",0   ,Beratungskosten und Kosten der Einführungsbegleitung
 12,20,527,83,11,50.000   ,50.000   ,"20.442,90   ",0   ,Reisekostenvergütungen für Dienstreisen
@@ -5606,7 +5615,7 @@
 12,50,545,10,314,0   ,0   ,"170.998,84   ",0   ,Ausgaben für Arbeitsschutz und Gesundheitsmanagement
 12,50,546,4,61,0   ,0   ,"1.491.861,50   ",0   ,Ausgaben für den Kauf des Firmentickets von Verkehrsunternehmen
 12,50,546,10,61,0   ,0   ,"0,00   ",0   ,Umsatzsteuerzahlungen gemäß § 13 b Umsatzsteuergesetz
-12,50,547,10,61,46.001.800   ,48.641.800   ,"49.802.137,04   ",0   ,Sonstige sächliche Verwaltungsausgaben
+12,50,547,10,61,46.001.800   ,49.591.800   ,"49.802.137,04   ",0   ,Sonstige sächliche Verwaltungsausgaben
 12,50,811,1,61,4.356.000   ,300.000   ,"1.547.621,62   ",100.000   ,Erwerb von Dienstkraftfahrzeugen
 12,50,812,0,61,1.600.000   ,1.800.000   ,"1.187.620,49   ",100.000   ,Erwerb von Geräten und sonstigen beweglichen Sachen
 12,70,111,1,16,0   ,0   ,"0,00   ",0   ,Gebühren und tarifliche Entgelte
@@ -5787,42 +5796,47 @@
 12,310,443,1,841,0   ,0   ,"183,00   ",0   ,Fürsorgeleistungen
 12,310,462,15,881,-240.000   ,-480.000   ,"0,00   ",0   ,Minderausgaben aufgrund der Realisierung von kw-Vermerken
 12,400,111,1,62,0   ,0   ,"0,00   ",0   ,Gebühren und tarifliche Entgelte
+12,400,111,56,62,0   ,0   ,"0,00   ",0   ,Kostenbeiträge der NRW-Bank
 12,400,112,1,62,0   ,0   ,"0,00   ",0   ,"Geldstrafen, Geldbußen, Gerichtskosten"
-12,400,119,1,62,0   ,0   ,"0,00   ",0   ,Vermischte Einnahmen
+12,400,119,1,62,188.000   ,50.000   ,"0,00   ",0   ,Vermischte Einnahmen
 12,400,119,3,62,0   ,0   ,"0,00   ",0   ,Einnahmen aus Nebentätigkeiten
-12,400,124,1,62,0   ,0   ,"0,00   ",0   ,Mieten und Pachten
+12,400,124,1,62,139.900   ,7.600   ,"0,00   ",0   ,Mieten und Pachten
 12,400,132,1,62,0   ,0   ,"0,00   ",0   ,Erlöse aus der Veräußerung von beweglichen Sachen
 12,400,235,10,62,0   ,0   ,"0,00   ",0   ,Sonstige Zuweisungen von Sozialversicherungsträgern sowie der Bundesagentur für Arbeit
-12,400,422,1,62,0   ,0   ,"0,00   ",0   ,"Bezüge und Nebenleistungen der Beamtinnen und Beamten, Richterinnen und Richter"
-12,400,427,1,62,0   ,0   ,"0,00   ",0   ,Entgelte für Aushilfen
-12,400,428,1,62,0   ,0   ,"0,00   ",0   ,Entgelte der Arbeitnehmerinnen und Arbeitnehmer
-12,400,453,1,62,0   ,0   ,"0,00   ",0   ,Trennungsentschädigung und Umzugskostenvergütung
-12,400,511,1,62,0   ,0   ,"0,00   ",0   ,"Geschäftsbedarf und Kommunikation sowie Geräte, Ausstattungs- und Ausrüstungsgegenstände, sonstige Gebrauchsgegenstände"
-12,400,514,1,62,0   ,0   ,"0,00   ",0   ,Haltung von Dienstfahrzeugen
+12,400,422,1,62,2.607.900   ,846.000   ,"0,00   ",0   ,"Bezüge und Nebenleistungen der Beamtinnen und Beamten, Richterinnen und Richter"
+12,400,427,1,62,25.000   ,25.000   ,"0,00   ",0   ,Entgelte für Aushilfen
+12,400,428,1,62,3.215.400   ,1.205.500   ,"0,00   ",0   ,Entgelte der Arbeitnehmerinnen und Arbeitnehmer
+12,400,453,1,62,10.000   ,10.000   ,"0,00   ",0   ,Trennungsentschädigung und Umzugskostenvergütung
+12,400,511,1,62,70.000   ,70.000   ,"0,00   ",0   ,"Geschäftsbedarf und Kommunikation sowie Geräte, Ausstattungs- und Ausrüstungsgegenstände, sonstige Gebrauchsgegenstände"
+12,400,514,1,62,21.500   ,10.600   ,"0,00   ",0   ,Haltung von Dienstfahrzeugen
 12,400,514,2,62,0   ,0   ,"0,00   ",0   ,Dienst- und Schutzkleidung
-12,400,517,1,62,0   ,0   ,"0,00   ",0   ,"Bewirtschaftung der Grundstücke, Gebäude und Räume"
-12,400,518,1,62,0   ,0   ,"0,00   ",0   ,"Mieten und Pachten für Grundstücke, Gebäude und Räume"
-12,400,518,2,62,0   ,0   ,"0,00   ",0   ,"Mieten und Pachten für Geräte, Maschinen und Fahrzeuge"
-12,400,519,3,62,0   ,0   ,"0,00   ",0   ,"Schönheitsreparaturen und Instandhaltung an angemieteten Grundstücken, Gebäuden und Räumen"
-12,400,525,1,62,0   ,0   ,"0,00   ",0   ,Aus- (und Fort)bildung der Bediensteten
-12,400,526,1,62,0   ,0   ,"0,00   ",0   ,Sachverständige
-12,400,526,2,62,0   ,0   ,"0,00   ",0   ,Gerichts- und ähnliche Kosten
-12,400,527,1,62,0   ,0   ,"0,00   ",0   ,Reisekostenvergütungen für Dienstreisen
-12,400,527,2,62,0   ,0   ,"0,00   ",0   ,Reisekostenvergütungen für Reisen in Personalvertretungs- und Schwerbehindertenangelegenheiten
+12,400,517,1,62,425.000   ,335.000   ,"0,00   ",0   ,"Bewirtschaftung der Grundstücke, Gebäude und Räume"
+12,400,518,1,62,1.350.000   ,464.800   ,"0,00   ",0   ,"Mieten und Pachten für Grundstücke, Gebäude und Räume"
+12,400,518,2,62,50.000   ,50.000   ,"0,00   ",0   ,"Mieten und Pachten für Geräte, Maschinen und Fahrzeuge"
+12,400,519,3,62,5.000   ,5.000   ,"0,00   ",0   ,"Schönheitsreparaturen und Instandhaltung an angemieteten Grundstücken, Gebäuden und Räumen"
+12,400,525,1,62,35.000   ,35.000   ,"0,00   ",0   ,Aus- (und Fort)bildung der Bediensteten
+12,400,526,1,62,50.000   ,50.000   ,"0,00   ",0   ,Sachverständige
+12,400,526,2,62,50.000   ,50.000   ,"0,00   ",0   ,Gerichts- und ähnliche Kosten
+12,400,527,1,62,60.000   ,60.000   ,"0,00   ",0   ,Reisekostenvergütungen für Dienstreisen
+12,400,527,2,62,1.000   ,1.000   ,"0,00   ",0   ,Reisekostenvergütungen für Reisen in Personalvertretungs- und Schwerbehindertenangelegenheiten
+12,400,531,10,62,1.000   ,1.000   ,"0,00   ",0   ,"Öffentlichkeitsarbeit, Veröffentlichungen"
 12,400,545,10,62,0   ,0   ,"0,00   ",0   ,Ausgaben für Arbeitsschutz und Gesundheitsmanagement
 12,400,546,1,62,0   ,0   ,"0,00   ",0   ,Vermischte Ausgaben
 12,400,546,2,62,0   ,0   ,"0,00   ",0   ,Entschädigungs- und Ersatzleistungen an Dritte
 12,400,546,3,62,0   ,0   ,"0,00   ",0   ,Ausgaben für den Umzug und die Verlegung von Dienststellen
-12,400,547,10,62,0   ,0   ,"0,00   ",0   ,Sonstige sächliche Verwaltungsausgaben
-12,400,811,1,62,0   ,0   ,"0,00   ",0   ,Erwerb von Dienstkraftfahrzeugen
-12,400,812,0,62,0   ,0   ,"0,00   ",0   ,Erwerb von Geräten und sonstigen beweglichen Sachen
-12,400,511,81,62,0   ,0   ,"0,00   ",0   ,"Geschäftsbedarf und Kommunikation sowie Geräte, Ausstattungs- und Ausrüstungsgegenstände, sonstige Gebrauchsgegenstände für die Datenverarbeitung"
+12,400,547,10,62,326.000   ,155.300   ,"0,00   ",0   ,Sonstige sächliche Verwaltungsausgaben
+12,400,811,1,62,15.000   ,15.000   ,"0,00   ",0   ,Erwerb von Dienstkraftfahrzeugen
+12,400,812,0,62,25.000   ,25.000   ,"0,00   ",0   ,Erwerb von Geräten und sonstigen beweglichen Sachen
+12,400,422,64,62,786.000   ,872.700   ,"0,00   ",0   ,"Bezüge und Nebenleistungen der Beamtinnen und Beamten, Richter und Richterinnen"
+12,400,525,64,62,250.000   ,250.000   ,"0,00   ",0   ,Mobilitäts- und Qualifizierungsmaßnahmen
+12,400,547,64,62,0   ,0   ,"0,00   ",0   ,Sonstige sächliche Verwaltungsausgaben
+12,400,511,81,62,134.000   ,61.000   ,"0,00   ",0   ,"Geschäftsbedarf und Kommunikation sowie Geräte, Ausstattungs- und Ausrüstungsgegenstände, sonstige Gebrauchsgegenstände für die Datenverarbeitung"
 12,400,518,81,62,0   ,0   ,"0,00   ",0   ,Mieten von Geräten für die Datenverarbeitung
 12,400,525,81,62,0   ,0   ,"0,00   ",0   ,ADV-Fortbildung der Bediensteten
 12,400,526,81,62,0   ,0   ,"0,00   ",0   ,Sachverständige
-12,400,538,81,62,0   ,0   ,"0,00   ",0   ,Ausgaben für die Datenverarbeitung
+12,400,538,81,62,35.000   ,35.000   ,"0,00   ",0   ,Ausgaben für die Datenverarbeitung
 12,400,547,81,62,0   ,0   ,"0,00   ",0   ,Sonstige sächliche Verwaltungsausgaben für die Datenverarbeitung
-12,400,812,81,62,0   ,0   ,"0,00   ",0   ,Erwerb von Geräten für die Datenverarbeitung sowie von Software
+12,400,812,81,62,132.000   ,101.000   ,"0,00   ",0   ,Erwerb von Geräten für die Datenverarbeitung sowie von Software
 12,620,182,10,246,1.500   ,1.500   ,"2.136,19   ",0   ,Anteil des Landes an Rückflüssen aus Aufbaudarlehen für den Wohnungsbau nach § 19 Flüchtlingshilfegesetz (Tilgungsbeträge)
 12,620,182,30,246,300   ,300   ,"790,40   ",0   ,Anteil des Landes an Rückflüssen aus Aufbaudarlehen für die Landwirtschaft nach § 18 Flüchtlingshilfegesetz (Tilgungsbeträge)
 12,620,631,0,246,500   ,500   ,"42,31   ",0   ,Anteil des Landes an den Verwaltungskosten der nach Abschn. IV Flüchtlingshilfegesetz gewährten Darlehen
@@ -6216,7 +6230,7 @@
 14,731,271,12,692,120.000   ,120.000   ,"30.795,52   ",0   ,"Erstattungen von der EU im Rahmen des Ziels ""Europäische territoriale Zusammenarbeit"" - INTERREG IV C - (2007 - 2013)"
 14,731,271,13,692,0   ,0   ,"0,00   ",0   ,"Erstattungen von der EU im Rahmen des Ziels ""Europäische territoriale Zusammenarbeit"" - ETZ - Ausrichtung C Phase V - (2014 - 2020)"
 14,731,272,61,692,5.000.000   ,0   ,"0,00   ",0   ,Sonstige Zuschüsse
-14,731,346,61,692,10.000.000   ,0   ,"0,00   ",0   ,Zuschüsse für Investitionen
+14,731,346,61,692,14.000.000   ,0   ,"0,00   ",0   ,Zuschüsse für Investitionen
 14,731,272,65,692,34.100.000   ,34.100.000   ,"24.005.410,59   ",0   ,Sonstige Zuschüsse
 14,731,346,65,692,155.900.000   ,205.900.000   ,"136.030.659,99   ",0   ,Zuschüsse für Investitionen
 14,731,427,1,11,50.000   ,0   ,"0,00   ",0   ,Entgelte für Aushilfen
@@ -6240,7 +6254,7 @@
 14,731,861,60,692,0   ,0   ,"0,00   ",0   ,Darlehen an öffentliche Unternehmen
 14,731,862,60,692,500.000   ,0   ,"0,00   ",0   ,Darlehen an private Unternehmen
 14,731,883,60,692,250.000   ,0   ,"0,00   ",0   ,Zuweisungen für Investitionen an Gemeinden und Gemeindeverbände
-14,731,891,60,692,250.000   ,0   ,"0,00   ",18.000.000   ,Zuschüsse für Investitionen an öffentliche Unternehmen
+14,731,891,60,692,650.000   ,0   ,"0,00   ",21.600.000   ,Zuschüsse für Investitionen an öffentliche Unternehmen
 14,731,892,60,692,0   ,0   ,"0,00   ",0   ,Zuschüsse für Investitionen an private Unternehmen
 14,731,893,60,692,0   ,0   ,"0,00   ",0   ,Zuschüsse für Investitionen an Sonstige im Inland
 14,731,427,61,12,0   ,0   ,"0,00   ",0   ,Entgelte für Aushilfen
@@ -6260,8 +6274,8 @@
 14,731,861,61,692,1.000.000   ,0   ,"0,00   ",0   ,Darlehen an öffentliche Unternehmen
 14,731,862,61,692,1.000.000   ,0   ,"0,00   ",0   ,Darlehen an private Unternehmen
 14,731,883,61,692,1.000.000   ,0   ,"0,00   ",0   ,Zuweisungen für Investitionen an Gemeinden und Gemeindeverbände
-14,731,891,61,692,7.000.000   ,0   ,"0,00   ",120.000.000   ,Zuschüsse für Investitionen an öffentliche Unternehmen
-14,731,892,61,692,2.000.000   ,0   ,"0,00   ",0   ,Zuschüsse für Investitionen an private Unternehmen
+14,731,891,61,692,9.000.000   ,0   ,"0,00   ",144.000.000   ,Zuschüsse für Investitionen an öffentliche Unternehmen
+14,731,892,61,692,4.000.000   ,0   ,"0,00   ",0   ,Zuschüsse für Investitionen an private Unternehmen
 14,731,893,61,692,0   ,0   ,"0,00   ",0   ,Zuschüsse für Investitionen an Sonstige im Inland
 14,731,427,64,12,0   ,0   ,"0,00   ",0   ,Entgelte für Aushilfen
 14,731,428,64,12,150.000   ,100.000   ,"77.327,50   ",0   ,Entgelte der Arbeitnehmerinnen und Arbeitnehmer
@@ -6529,7 +6543,7 @@
 15,35,119,1,291,200.000   ,300.000   ,"198.660,02   ",0   ,Vermischte Einnahmen
 15,35,547,61,291,0   ,0   ,"36.274,67   ",0   ,Sächliche Verwaltungsausgaben
 15,35,633,61,291,0   ,0   ,"0,00   ",0   ,Sonstige Zuweisungen an Gemeinden und Gemeindeverbände
-15,35,684,61,291,15.681.200   ,15.681.200   ,"14.796.169,84   ",690.000   ,Zuschüsse für laufende Zwecke an soziale und ähnliche Einrichtungen
+15,35,684,61,291,16.081.200   ,15.681.200   ,"14.796.169,84   ",690.000   ,Zuschüsse für laufende Zwecke an soziale und ähnliche Einrichtungen
 15,35,686,61,291,0   ,0   ,"0,00   ",0   ,Zuschüsse für laufende Zwecke an Sonstige
 15,35,892,61,291,0   ,0   ,"0,00   ",0   ,Zuschüsse für Investitionen
 15,35,547,62,291,0   ,0   ,"171.179,77   ",0   ,Sächliche Verwaltungsausgaben
@@ -6835,14 +6849,14 @@
 20,10,59,0,821,75.000.000   ,75.000.000   ,"78.693.120,35   ",0   ,Feuerschutzsteuer
 20,10,61,0,821,179.000.000   ,182.000.000   ,"182.895.150,69   ",0   ,Biersteuer
 20,10,69,0,821,0   ,0   ,"0,00   ",0   ,Sonstige Steuern
-20,20,93,11,821,1.300.000   ,700.000   ,"996.089,52   ",0   ,Spielbankabgabe der Spielbank Aachen
-20,20,93,12,821,1.480.000   ,1.050.000   ,"1.112.954,40   ",0   ,Spielbankabgabe der Spielbank Bad Oeynhausen
-20,20,93,13,821,4.600.000   ,3.325.000   ,"3.674.219,23   ",0   ,Spielbankabgabe der Spielbank Dortmund
-20,20,93,14,821,9.440.000   ,15.250.000   ,"16.413.256,52   ",0   ,Spielbankabgabe der Spielbank Duisburg
-20,20,93,21,821,900.000   ,1.120.000   ,"1.241.802,90   ",0   ,Zusätzliche Leistungen der Spielbank Aachen
-20,20,93,22,821,1.140.000   ,2.010.000   ,"1.605.747,78   ",0   ,Zusätzliche Leistungen der Spielbank Bad Oeynhausen
-20,20,93,23,821,4.125.000   ,7.245.000   ,"5.792.579,02   ",0   ,Zusätzliche Leistungen der Spielbank Dortmund
-20,20,93,24,821,6.240.000   ,9.510.000   ,"10.240.508,42   ",0   ,Zusätzliche Leistungen der Spielbank Duisburg
+20,20,93,11,821,1.300.000   ,1.270.000   ,"996.089,52   ",0   ,Spielbankabgabe der Spielbank Aachen
+20,20,93,12,821,1.480.000   ,1.610.000   ,"1.112.954,40   ",0   ,Spielbankabgabe der Spielbank Bad Oeynhausen
+20,20,93,13,821,4.600.000   ,6.400.000   ,"3.674.219,23   ",0   ,Spielbankabgabe der Spielbank Dortmund
+20,20,93,14,821,9.440.000   ,9.540.000   ,"16.413.256,52   ",0   ,Spielbankabgabe der Spielbank Duisburg
+20,20,93,21,821,900.000   ,885.000   ,"1.241.802,90   ",0   ,Zusätzliche Leistungen der Spielbank Aachen
+20,20,93,22,821,1.140.000   ,1.305.000   ,"1.605.747,78   ",0   ,Zusätzliche Leistungen der Spielbank Bad Oeynhausen
+20,20,93,23,821,4.125.000   ,4.050.000   ,"5.792.579,02   ",0   ,Zusätzliche Leistungen der Spielbank Dortmund
+20,20,93,24,821,6.240.000   ,6.165.000   ,"10.240.508,42   ",0   ,Zusätzliche Leistungen der Spielbank Duisburg
 20,20,93,30,821,0   ,0   ,"0,00   ",0   ,Gewinnabschöpfung gem. § 14 Spielbankgesetz NRW
 20,20,119,1,11,0   ,0   ,"19.542,17   ",0   ,Vermischte Einnahmen
 20,20,119,40,11,0   ,0   ,"0,00   ",0   ,Rückzahlung von Abfindungen nach § 88 Beamtenversorgungsgesetz
@@ -6862,17 +6876,17 @@
 20,20,231,0,821,17.994.300   ,35.988.600   ,"35.988.643,00   ",0   ,NRW-Anteil an der pauschalen Erstattung des Bundes für die Verwaltung der Kraftfahrzeugsteuer durch die Länder im Wege der Organleihe
 20,20,236,20,232,2.100.000   ,2.000.000   ,"2.459.011,01   ",0   ,Erstattungen von Krankenkassen nach dem Aufwendungsausgleichsgesetz
 20,20,261,0,61,80.500.000   ,77.500.000   ,"87.374.290,42   ",0   ,Erstattungen von Verwaltungsausgaben aus dem Inland
-20,20,281,10,18,1.026.000   ,1.026.000   ,"811.874,44   ",0   ,"Erstattungen von Zuführungsbeträgen an das Sondervermögen ""Versorgungsrücklage des Landes Nordrhein-Westfalen"" durch Landesbetriebe, den Bau- und Liegenschaftsbetrieb NRW (BLB NRW) sowie die Stiftung ""Zoologisches Forschungsmuseum Alexander Koenig - Leibn"
+20,20,281,10,18,1.026.000   ,1.026.000   ,"811.874,44   ",0   ,"Erstattungen von Zuführungsbeträgen an das Sondervermögen ""Versorgungsrücklage des Landes Nordrhein-Westfalen"" durch Landesbetriebe, den Bau- und Liegenschaftsbetrieb NRW (BLB NRW) sowie die Stiftung ""Zoologisches Forschungsmuseum Alexander Koenig - Leibniz-Institut für Biodiversität der Tiere"""
 20,20,281,11,18,1.150.000   ,950.000   ,"1.075.490,45   ",0   ,"Erstattungen von Zuführungsbeträgen an das Sondervermögen ""Versorgungsfonds des Landes Nordrhein-Westfalen"" durch Landesbetriebe sowie durch den Bau- und Liegenschaftsbetrieb NRW (BLB NRW)"
 20,20,281,12,18,0   ,0   ,"37.816.103,19   ",0   ,Einnahmen aus Versorgungszuschlägen und Versorgungslastenbeteiligungen für den in § 14 EFoG genannten Personenkreis
 20,20,281,40,18,3.750.000   ,10.000.000   ,"10.728.788,37   ",0   ,Einnahmen aus der Gewährung von Abschlägen auf Arzneimittel
 20,20,282,10,861,0   ,0   ,"0,00   ",0   ,Einnahmen aus dem Rahmenvertrag zur Personalbereitstellung mit der Deutschen Telekom AG - Vivento -
-20,20,371,10,881,668.000   ,648.700   ,"0,00   ",0   ,Globale Mehreinnahmen zum Ausgleich der Schlusssummen des Haushaltsplans
+20,20,371,10,881,299.500   ,499.700   ,"0,00   ",0   ,Globale Mehreinnahmen zum Ausgleich der Schlusssummen des Haushaltsplans
 20,20,371,20,881,300.000.000   ,160.000.000   ,"0,00   ",0   ,Globale Mehreinnahmen in allen Einzelplänen
-20,20,381,51,891,31.600   ,30.300   ,"30.802,72   ",0   ,"Erstattung der Zuführung an das Sondervermögen ""Versorgungsrücklage des Landes Nordrhein-Westfalen"" für Besoldungsempfänger aus den Einzelplänen 03, 05, 06 und 15 für Bedienstete der Kapitel 03 130, 05 073, 06 072 und 15 240"
+20,20,381,51,891,23.500   ,30.300   ,"30.802,72   ",0   ,"Erstattung der Zuführung an das Sondervermögen ""Versorgungsrücklage des Landes Nordrhein-Westfalen"" für Besoldungsempfänger aus den Einzelplänen 03, 05, 06 und 15 für Bedienstete der Kapitel 03 130, 05 073, 06 072 und 15 240"
 20,20,381,52,891,9.500   ,9.200   ,"10.006,69   ",0   ,"Erstattung der Zuführung an das Sondervermögen ""Versorgungsrücklage des Landes Nordrhein-Westfalen"" für Versorgungsempfänger aus den Einzelplänen 03 und 05 für Bedienstete der Kapitel 03 130 und 05 073"
-20,20,211,60,821,220.000.000   ,0   ,"324.321.216,56   ",0   ,Allgemeine Zuweisungen vom Bund
-20,20,212,60,821,540.000.000   ,250.000.000   ,"563.425.111,88   ",0   ,Zuweisungen von anderen Ländern nach Artikel 107 Abs. 2 des Grundgesetzes
+20,20,211,60,821,250.000.000   ,140.000.000   ,"324.321.216,56   ",0   ,Allgemeine Zuweisungen vom Bund
+20,20,212,60,821,570.000.000   ,425.000.000   ,"563.425.111,88   ",0   ,Zuweisungen von anderen Ländern nach Artikel 107 Abs. 2 des Grundgesetzes
 20,20,421,1,11,2.430.800   ,2.509.000   ,"2.799.497,80   ",0   ,"Bezüge der Ministerpräsidentin, der Ministerinnen und Minister sowie des Parlamentarischen Staatssekretärs für besondere Regierungsaufgaben"
 20,20,422,1,841,35.000.000   ,35.000.000   ,"25.330.873,53   ",0   ,"Bezüge und Nebenleistungen der Beamtinnen und Beamten, Richterinnen und Richter"
 20,20,422,2,841,25.000.000   ,25.000.000   ,"20.276.084,64   ",0   ,Bezüge und Nebenleistungen der Beamtinnen und Beamten auf Widerruf im Vorbereitungsdienst
@@ -6886,15 +6900,15 @@
 20,20,443,2,841,500.000   ,500.000   ,"1.536,00   ",0   ,Unterstützungen aufgrund der Unterstützungsgrundsätze
 20,20,452,10,18,500   ,500   ,"333,84   ",0   ,Erstattungen von Rentenleistungen an die Versorgungsanstalt des Bundes und der Länder
 20,20,452,20,244,500   ,500   ,"0,00   ",0   ,Erstattungen von Wiedergutmachungsleistungen an die Versorgungsanstalt des Bundes und der Länder
-20,20,461,10,881,91.000.000   ,66.000.000   ,"0,00   ",0   ,"Zur Verstärkung der Ansätze für die Personalausgaben bei Titeln der Obergruppen 41, 43, 44 und 45 in den Einzelplänen, zur Verstärkung von Ansätzen bei Titeln der Obergruppe 63 in den Versorgungskapiteln der Einzelpläne sowie nach Maßgabe der Vermerke Nr."
-20,20,461,11,881,70.000.000   ,560.000.000   ,"0,00   ",0   ,"Zur Verstärkung der Ansätze für die Personalausgaben bei Titeln der Obergruppe 42 in den Einzelplänen sowie nach Maßgabe der Vermerke Nr. 6 - 8 zur Verstärkung der Ansätze für Zuschüsse an Landesbetriebe, Hochschulen und Universitätskliniken"
+20,20,461,10,881,91.000.000   ,66.000.000   ,"0,00   ",0   ,"Zur Verstärkung der Ansätze für die Personalausgaben bei Titeln der Obergruppen 41, 43, 44 und 45 in den Einzelplänen, zur Verstärkung von Ansätzen bei Titeln der Obergruppe 63 in den Versorgungskapiteln der Einzelpläne sowie nach Maßgabe der Vermerke Nr. 5 - 7 zur Verstärkung der Ansätze für Zuschüsse an Landesbetriebe, Hochschulen und Universitätskliniken"
+20,20,461,11,881,70.000.000   ,380.000.000   ,"0,00   ",0   ,"Zur Verstärkung der Ansätze für die Personalausgaben bei Titeln der Obergruppe 42 in den Einzelplänen sowie nach Maßgabe der Vermerke Nr. 6 - 8 zur Verstärkung der Ansätze für Zuschüsse an Landesbetriebe, Hochschulen und Universitätskliniken"
 20,20,462,20,881,0   ,0   ,"0,00   ",0   ,Minderausgaben für Personalausgaben in allen Einzelplänen
 20,20,462,30,881,0   ,0   ,"0,00   ",0   ,Minderausgaben bei Titeln der Gruppen 441 und 446 in allen Einzelplänen
 20,20,511,1,11,781.600   ,781.600   ,"117.387,82   ",0   ,"Geschäftsbedarf und Kommunikation sowie Geräte, Ausstattungs- und Ausrüstungsgegenstände, sonstige Gebrauchsgegenstände"
 20,20,517,0,861,10.000.000   ,0   ,"0,00   ",0   ,Zur Verstärkung der Ansätze bei Titeln der Gruppe 517 in den Einzelplänen
 20,20,518,10,861,500.000   ,500.000   ,"0,00   ",0   ,Zur Verstärkung der Ansätze bei den Titeln 518 01 und 518 04 in den Einzelplänen
 20,20,520,0,861,948.000   ,948.000   ,"104.263,20   ",0   ,Nicht aufteilbare sächliche Verwaltungsausgaben zur Realisierung von Öffentlich-Privaten Partnerschaften
-20,20,526,20,59,1.651.300   ,1.628.300   ,"1.628.072,05   ",5.700.000   ,Nutzungsentgelte an juristische Informationssysteme
+20,20,526,20,59,1.687.400   ,1.628.300   ,"1.628.072,05   ",5.700.000   ,Nutzungsentgelte an juristische Informationssysteme
 20,20,529,0,11,100.000   ,100.000   ,"0,00   ",0   ,"Zur Verstärkung der in den Einzelplänen vorgesehenen Ansätze für Verfügungsmittel der Ministerpräsidentin, der Ministerinnen und Minister"
 20,20,531,0,861,3.000.000   ,3.000.000   ,"0,00   ",0   ,Zur Verstärkung der in den Einzelplänen vorgesehenen Ansätze für Öffentlichkeitsarbeit
 20,20,538,0,12,2.253.000   ,2.230.000   ,"1.718.970,74   ",0   ,Ausgaben für Datenverarbeitung
@@ -6903,12 +6917,12 @@
 20,20,545,20,199,3.780.000   ,3.780.000   ,"493.232,77   ",1.500.000   ,Kosten für Schutz- und Sicherungsmaßnahmen an jüdischen Einrichtungen/Organisationen
 20,20,546,1,11,5.000   ,5.000   ,"4.242,43   ",0   ,Vermischte Ausgaben
 20,20,547,10,661,0   ,300.000   ,"0,00   ",0   ,Nicht aufteilbare sächliche Verwaltungsausgaben zur Durchführung eines Finanzplatzdialogs NRW
-20,20,571,0,831,15.000.000   ,5.000.000   ,"1.538.478,13   ",0   ,Zinsen für Kassenkredite
+20,20,571,0,831,10.000.000   ,5.000.000   ,"1.538.478,13   ",0   ,Zinsen für Kassenkredite
 20,20,632,10,61,4.000.000   ,4.000.000   ,"3.866.283,62   ",0   ,NRW-Anteil an den Ausgaben des Landes Mecklenburg-Vorpommern für die Einkommensbesteuerung beschränkt steuerpflichtiger Rentner
-20,20,633,11,821,720.000   ,840.000   ,"917.096,82   ",0   ,Zuweisungen an die Spielbankgemeinde Aachen
-20,20,633,12,821,912.000   ,1.248.000   ,"1.016.461,36   ",0   ,Zuweisungen an die Spielbankgemeinde Bad Oeynhausen
-20,20,633,13,821,3.300.000   ,3.972.000   ,"3.214.134,90   ",0   ,Zuweisungen an die Spielbankgemeinde Dortmund
-20,20,633,14,821,4.992.000   ,5.220.000   ,"5.611.404,24   ",0   ,Zuweisungen an die Spielbankgemeinde Duisburg
+20,20,633,11,821,720.000   ,708.000   ,"917.096,82   ",0   ,Zuweisungen an die Spielbankgemeinde Aachen
+20,20,633,12,821,912.000   ,1.044.000   ,"1.016.461,36   ",0   ,Zuweisungen an die Spielbankgemeinde Bad Oeynhausen
+20,20,633,13,821,3.300.000   ,3.240.000   ,"3.214.134,90   ",0   ,Zuweisungen an die Spielbankgemeinde Dortmund
+20,20,633,14,821,4.992.000   ,4.932.000   ,"5.611.404,24   ",0   ,Zuweisungen an die Spielbankgemeinde Duisburg
 20,20,634,0,243,1.441.000   ,1.650.000   ,"1.802.155,73   ",0   ,Anteil des Landes am Zuschuss der Länder an den Bund nach § 6 LAG
 20,20,636,0,12,120.000   ,120.000   ,"105.713,67   ",0   ,Verwaltungskostenbeitrag des Landes an die Westfälisch-Lippische Versorgungskasse für die Versorgung des unter G 131 fallenden Personenkreises
 20,20,636,10,291,0   ,100.000   ,"500.000,00   ",0   ,Zuweisung an die Unfallkasse Nordrhein-Westfalen für die Gewährung von Soforthilfen für die Opfer der Loveparade 2010 in Duisburg
@@ -6918,9 +6932,9 @@
 20,20,686,30,12,6.000   ,6.000   ,"7.090,00   ",0   ,Mitgliedsbeiträge an eCl@ss e.V.
 20,20,687,0,29,11.000   ,11.000   ,"9.474,17   ",0   ,"Zahlung des der Republik Österreich zustehenden Anteils am Biersteueraufkommen für das Zollanschlussgebiet ""Kleines Walsertal"" an den Bund"
 20,20,697,0,342,1.500.000   ,4.000.000   ,"0,00   ",0   ,Zuschüsse im Zusammenhang mit der geordneten Stilllegung des THTR 300 in Hamm-Uentrop
-20,20,919,10,851,590.000.000   ,340.000.000   ,"253.999.998,54   ",0   ,"Zuführung an das Sondervermögen ""Versorgungsfonds des Landes Nordrhein-Westfalen"" zur Finanzierung der Versorgungsleistungen von neu eingestellten Beamtinnen und Beamten sowie Richterinnen und Richtern"
+20,20,919,10,851,510.000.000   ,865.000.000   ,"253.999.998,54   ",0   ,"Zuführung an das Sondervermögen ""Versorgungsfonds des Landes Nordrhein-Westfalen"" zur Finanzierung der Versorgungsleistungen von neu eingestellten Beamtinnen und Beamten sowie Richterinnen und Richtern"
 20,20,919,20,851,3.000.000   ,3.000.000   ,"2.905.894,00   ",0   ,"Zuführung der von Dritten gezahlten Versorgungszuschläge an das Sondervermögen ""Versorgungsrücklage des Landes Nordrhein-Westfalen"""
-20,20,971,0,881,12.500.000   ,12.500.000   ,"0,00   ",0   ,Globale Mehrausgaben
+20,20,971,0,881,12.500.000   ,11.550.000   ,"0,00   ",0   ,Globale Mehrausgaben
 20,20,971,10,881,500.000   ,500.000   ,"0,00   ",0   ,Unvorhergesehenes
 20,20,971,11,881,0   ,0   ,"0,00   ",0   ,Zur Deckung von Ausgaberesten bei Personalausgaben- und Gesamtausgabenbudgetierung in den Einzelplänen
 20,20,971,30,881,0   ,0   ,"0,00   ",0   ,Zur Deckung von Ausgaberesten der Hauptgruppe 5 sowie der Obergruppe 81 außerhalb der Gesamtausgabenbudgetierung in den Einzelplänen
@@ -6942,27 +6956,27 @@
 20,21,331,10,861,0   ,0   ,"0,00   ",0   ,Zuweisungen für Investitionen vom Bund
 20,21,883,10,861,0   ,0   ,"0,00   ",0   ,Zuweisungen für Investitionen - nicht durch Vorbelastung gebundene Strukturhilfemittel aller Einzelpläne -
 20,30,213,0,821,0   ,0   ,"0,00   ",0   ,Einnahmen aus der Abrechnung der Finanzierungsbeteiligung der Gemeinden und Gemeindeverbände an den finanziellen Belastungen des Landes Nordrhein-Westfalen in Folge der Deutschen Einheit
-20,30,233,10,821,181.578.000   ,0   ,"0,00   ",0   ,Einnahmen aus der von den Gemeinden gem. § 2 Abs. 3 Satz 3 Stärkungspaktgesetz zu leistenden Umlage
-20,30,613,11,821,6.245.482.000   ,5.764.333.000   ,"5.608.119.000,00   ",0   ,Schlüsselzuweisungen an Gemeinden
-20,30,613,12,821,931.525.000   ,859.761.000   ,"836.461.000,00   ",0   ,Schlüsselzuweisungen an Kreise
-20,30,613,13,821,780.880.000   ,720.721.000   ,"701.190.000,00   ",0   ,Schlüsselzuweisungen an Landschaftsverbände
+20,30,233,10,821,90.789.000   ,0   ,"0,00   ",0   ,Einnahmen aus der von den Gemeinden gem. § 2 Abs. 3 Satz 4 Stärkungspaktgesetz zu leistenden Umlage
+20,30,613,11,821,6.302.670.300   ,5.764.333.000   ,"5.608.119.000,00   ",0   ,Schlüsselzuweisungen an Gemeinden
+20,30,613,12,821,940.055.000   ,859.761.000   ,"836.461.000,00   ",0   ,Schlüsselzuweisungen an Kreise
+20,30,613,13,821,788.029.900   ,720.721.000   ,"701.190.000,00   ",0   ,Schlüsselzuweisungen an Landschaftsverbände
 20,30,613,17,821,0   ,0   ,"68.776.669,00   ",0   ,Zuweisungen an Gemeinden gem. § 19a GFG 2012 zur Abmilderung der Wirkungen der Strukturveränderungen bei der Bedarfsermittlung für die Bemessung der Schlüsselzuweisungen (Abmilderungshilfe)
 20,30,613,18,821,710.000.000   ,720.000.000   ,"719.051.678,48   ",0   ,Kompensation für Verluste durch Neuregelung des Familienleistungsausgleichs gem. § 21 GFG 2014
 20,30,613,19,821,70.000.000   ,70.000.000   ,"70.000.000,00   ",0   ,Schulpauschale/Bildungspauschale gem. § 17 GFG 2014
-20,30,613,26,821,33.505.000   ,30.923.400   ,"25.200.209,16   ",0   ,Zuweisungen aufgrund besonderer Bedarfe von Gemeinden und Gemeindeverbänden gem. § 19 GFG 2014
+20,30,613,26,821,33.811.400   ,30.923.400   ,"25.200.209,16   ",0   ,Zuweisungen aufgrund besonderer Bedarfe von Gemeinden und Gemeindeverbänden gem. § 19 GFG 2014
 20,30,613,28,821,18.106.000   ,17.425.000   ,"25.598.000,00   ",0   ,Kompensation von Steuermindereinnahmen infolge des Steuervereinfachungsgesetzes 2011 gem. § 21a GFG 2014
 20,30,613,29,821,0   ,0   ,"0,00   ",0   ,Abwicklung des interkommunalen Ausgleichs der finanziellen Beteiligung der Gemeinden am Solidarbeitrag zur Deutschen Einheit
-20,30,613,30,821,144.000.000   ,125.000.000   ,"0,00   ",0   ,Abrechnung der Finanzierungsbeteiligung der Gemeinden und Gemeindeverbände an den finanziellen Belastungen des Landes Nordrhein-Westfalen in Folge der Deutschen Einheit
+20,30,613,30,821,150.000.000   ,276.096.000   ,"0,00   ",0   ,Abrechnung der Finanzierungsbeteiligung der Gemeinden und Gemeindeverbände an den finanziellen Belastungen des Landes Nordrhein-Westfalen in Folge der Deutschen Einheit
 20,30,634,10,821,350.000.000   ,350.000.000   ,"350.000.000,00   ",0   ,"Zuweisungen an das Sondervermögen ""Stärkungspaktfonds"" für Konsolidierungshilfen an pflichtig teilnehmende Gemeinden"
 20,30,634,20,821,296.578.000   ,115.775.000   ,"65.440.000,00   ",0   ,"Zuweisungen an das Sondervermögen ""Stärkungspaktfonds"" für Konsolidierungshilfen an auf Antrag teilnehmende Gemeinden"
 20,30,883,11,423,0   ,0   ,"12.558.485,95   ",0   ,Zuweisungen für die Förderung von Maßnahmen zur Stadterneuerung
 20,30,883,12,423,0   ,0   ,"-1.919.285,86   ",0   ,Bahnflächenpool Nordrhein-Westfalen
 20,30,883,15,646,0   ,0   ,"638.588,25   ",0   ,Zuweisungen zur Gefährdungsabschätzung und Sanierung von Altablagerungen und Altstandorten
-20,30,883,18,821,590.549.000   ,500.029.000   ,"467.934.000,00   ",0   ,Investitionspauschale
+20,30,883,18,821,601.258.600   ,500.029.000   ,"467.934.000,00   ",0   ,Investitionspauschale
 20,30,883,23,195,0   ,0   ,"215.254,21   ",0   ,Zuweisungen zu Maßnahmen zur ökologischen Gestaltung im Emscher-Lippe-Raum (ÖPEL)
 20,30,883,26,129,530.000.000   ,530.000.000   ,"530.000.000,00   ",0   ,Schulpauschale/Bildungspauschale gem. § 17 GFG 2014
-20,30,883,27,821,50.027.000   ,42.359.000   ,"39.640.000,00   ",0   ,Investitionspauschale für die Landschaftsverbände gem. § 16 Abs. 5 GFG 2014
-20,30,883,28,821,59.675.000   ,50.528.000   ,"47.285.000,00   ",0   ,Investitionspauschale für die Altenhilfe und -pflege gem. § 16 Abs. 4 GFG 2014
+20,30,883,27,821,50.934.500   ,42.359.000   ,"39.640.000,00   ",0   ,Investitionspauschale für die Landschaftsverbände gem. § 16 Abs. 5 GFG 2014
+20,30,883,28,821,60.757.200   ,50.528.000   ,"47.285.000,00   ",0   ,Investitionspauschale für die Altenhilfe und -pflege gem. § 16 Abs. 4 GFG 2014
 20,30,883,33,183,0   ,0   ,"537.493,82   ",0   ,Zuweisungen für kommunale Museumsbauten
 20,30,883,35,322,50.000.000   ,50.000.000   ,"50.000.000,00   ",0   ,Sportpauschale gem. § 18 GFG 2014
 20,100,334,10,692,0   ,0   ,"0,00   ",0   ,"Zuweisungen vom Sondervermögen des Bundes ""Investitions- und Tilgungsfonds"" für Investitionen gem. § 3 Abs. 1 Nr. 1 ZulnvG"
@@ -7003,11 +7017,11 @@
 20,610,631,0,669,0   ,0   ,"0,00   ",0   ,Erstattungen an den Bund im Zusammenhang mit der Abwicklung des Finanzmarktstabilisierungsfonds
 20,610,634,0,681,0   ,0   ,"29.839.964,64   ",0   ,"Zuweisungen an das Sondervermögen ""Risikoabschirmung WestLB AG"""
 20,610,634,10,669,0   ,0   ,"0,00   ",0   ,"Zuweisungen an das Sondervermögen ""Abrechnung Finanzmarktstabilisierungsfonds"""
-20,610,671,30,681,900.000   ,900.000   ,"1.073.207,47   ",0   ,"Anteilige Bürgschaftsentgelte an den Bund bei Bürgschaften im Rahmen der Gemeinschaftsaufgaben ""Verbesserung der regionalen Wirtschaftsstruktur"" und ""Verbesserung der Agrarstruktur und des Küstenschutzes"" sowie des ""Paktes für Beschäftigung und Stabilität"
+20,610,671,30,681,900.000   ,900.000   ,"1.073.207,47   ",0   ,"Anteilige Bürgschaftsentgelte an den Bund bei Bürgschaften im Rahmen der Gemeinschaftsaufgaben ""Verbesserung der regionalen Wirtschaftsstruktur"" und ""Verbesserung der Agrarstruktur und des Küstenschutzes"" sowie des ""Paktes für Beschäftigung und Stabilität in Deutschland zur Sicherung der Arbeitsplätze, Stärkung der Wachstumskräfte und Modernisierung des Landes"" sowie Bürgschaftsentgelte an andere Länder für deren Rückbürgschaften zu Gunsten von Bürgschaften des Landes Nordrhein-Westfalen"
 20,610,831,13,661,0   ,0   ,"1.000.000.000,00   ",0   ,Beteiligung an der Portigon AG/Kapitalmaßnahmen bei der Portigon AG
 20,610,831,14,661,0   ,0   ,"0,00   ",0   ,Beteiligung an der NRW.BANK/Kapitalmaßnahmen bei der NRW.BANK
 20,610,831,16,812,0   ,0   ,"42.900.000,00   ",0   ,Kapitalzuführung an die Finanzierungsgesellschaft des Landes NRW zur Kapitalerhöhung bei der WestLB AG mbH
-20,610,831,31,812,10.000.000   ,0   ,"0,00   ",0   ,Kapitalzuführung an die Beteiligungsverwaltungsgesellschaft des Landes Nordrhein-Westfalen mbH
+20,610,831,31,812,0   ,0   ,"0,00   ",0   ,Kapitalzuführung an die Beteiligungsverwaltungsgesellschaft des Landes Nordrhein-Westfalen mbH
 20,610,831,40,812,0   ,0   ,"41.720,71   ",0   ,Erwerb von Beteiligungen im Zusammenhang mit der Erzielung von Einnahmen für den Innovationsfonds bei Titelgruppe 60
 20,610,871,10,681,40.000.000   ,45.000.000   ,"26.998.162,96   ",0   ,Für die Inanspruchnahme aus Bürgschaftsverträgen und Gewährleistungsverpflichtungen
 20,610,871,20,681,1.000.000   ,1.000.000   ,"0,00   ",0   ,Für die Inanspruchnahme aus Verpflichtungen im Rahmen neuer Finanzierungsformen im Interesse kleinerer und mittlerer Unternehmen
@@ -7064,10 +7078,10 @@
 20,641,812,0,811,0   ,0   ,"0,00   ",0   ,Erwerb von Geräten und sonstigen beweglichen Sachen
 20,641,894,0,812,0   ,0   ,"0,00   ",0   ,Zuschüsse für Investitionen an öffentliche Einrichtungen
 20,650,119,1,831,0   ,0   ,"0,00   ",0   ,Vermischte Einnahmen
-20,650,325,0,831,2.586.500.000   ,3.529.000.000   ,"3.836.389.953,67   ",0   ,Schuldenaufnahmen auf dem sonstigen Kreditmarkt
+20,650,325,0,831,2.548.000.000   ,3.491.500.000   ,"3.836.389.953,67   ",0   ,Schuldenaufnahmen auf dem sonstigen Kreditmarkt
 20,650,547,10,831,92.000   ,92.000   ,"81,85   ",0   ,Nicht aufteilbare sächliche Verwaltungsausgaben im Zusammenhang mit der Emissionstätigkeit des Landes
-20,650,575,10,831,3.620.000.000   ,3.926.000.000   ,"4.095.317.860,09   ",0   ,Zinsen für Kreditmarktmittel
-20,650,575,20,831,50.000.000   ,40.000.000   ,"43.444.902,90   ",0   ,"Bonifikation, Disagio, Agio und Diskont bei Wertpapieren und Schuldscheindarlehen, Courtage und Provision bei Kurspflegegeschäften, Ausgaben (Einnahmen) für Vereinbarungen i. S. v. § 2 Abs. 4 Haushaltsgesetz 2014, Ausgaben für Gutachten und sonstige Maßna"
+20,650,575,10,831,3.595.000.000   ,3.926.000.000   ,"4.095.317.860,09   ",0   ,Zinsen für Kreditmarktmittel
+20,650,575,20,831,50.000.000   ,40.000.000   ,"43.444.902,90   ",0   ,"Bonifikation, Disagio, Agio und Diskont bei Wertpapieren und Schuldscheindarlehen, Courtage und Provision bei Kurspflegegeschäften, Ausgaben (Einnahmen) für Vereinbarungen i. S. v. § 2 Abs. 4 Haushaltsgesetz 2014, Ausgaben für Gutachten und sonstige Maßnahmen zur Zinsoptimierung"
 20,650,561,72,831,352.000   ,388.100   ,"425.277,67   ",0   ,Zinsen an den Bund
 20,650,581,72,831,6.627.200   ,6.684.400   ,"6.747.910,77   ",0   ,Tilgungen an den Bund
 20,650,511,81,11,5.000   ,5.000   ,"0,00   ",0   ,"Geschäftsbedarf, Geräte, Ausstattungs- und Ausrüstungsgegenstände für die Datenverarbeitung"
